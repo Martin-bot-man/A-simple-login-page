@@ -2,9 +2,10 @@
 <application-state>
   <context id="">
     <application id="whatsie_whatsie.desktop" score="18" last-seen="1716960164"/>
-    <application id="google-chrome.desktop" score="217" last-seen="1716961492"/>
-    <application id="code_code.desktop" score="480" last-seen="1716961521"/>
+    <application id="google-chrome.desktop" score="283" last-seen="1716961989"/>
+    <application id="code_code.desktop" score="510" last-seen="1716962199"/>
     <application id="gnome-initial-setup.desktop" score="36" last-seen="1716958749"/>
     <application id="firefox_firefox.desktop" score="11" last-seen="1716961473"/>
+    <application id="org.gnome.Terminal.desktop" score="0" last-seen="1716962201"/>
   </context>
 </application-state>

@@ -7,3 +7,7 @@
     at p.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
     at p.C (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
     at d.value (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-05-29 08:55:23.953 [info] Extension host (LocalProcess pid: 3660) is unresponsive.
+2024-05-29 08:55:24.733 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-05-29 08:55:29.989 [info] Extension host (LocalProcess pid: 3660) is responsive.
+2024-05-29 08:55:29.992 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
