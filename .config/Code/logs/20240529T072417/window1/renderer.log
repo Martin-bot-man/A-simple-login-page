@@ -11,3 +11,5 @@
 2024-05-29 08:55:24.733 [info] UNRESPONSIVE extension host: starting to profile NOW
 2024-05-29 08:55:29.989 [info] Extension host (LocalProcess pid: 3660) is responsive.
 2024-05-29 08:55:29.992 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-05-29 09:21:29.951 [info] Settings Sync: Updating due to change in sessions
+2024-05-29 09:21:29.961 [info] Settings Sync: Updating due to change in sessions
