@@ -1,0 +1,7 @@
+2024/05/29-06:38:28.889 eca7 Reusing MANIFEST /home/martin/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/29-06:38:28.890 eca7 Recovering log #4
+2024/05/29-06:38:28.891 eca7 Reusing old log /home/martin/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000004.log 
+2024/05/29-06:38:28.948 eca7 Level-0 table #8: started
+2024/05/29-06:38:28.952 eca7 Level-0 table #8: 622 bytes OK
+2024/05/29-06:38:28.956 eca7 Delete type=0 #4
+2024/05/29-06:38:28.960 eca6 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

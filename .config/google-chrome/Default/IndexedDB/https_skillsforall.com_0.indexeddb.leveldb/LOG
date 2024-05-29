@@ -1,0 +1,13 @@
+2024/05/29-04:43:28.067 4cdd Reusing MANIFEST /home/martin/.config/google-chrome/Default/IndexedDB/https_skillsforall.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/29-04:43:28.068 4cdd Recovering log #13
+2024/05/29-04:43:28.069 4cdd Reusing old log /home/martin/.config/google-chrome/Default/IndexedDB/https_skillsforall.com_0.indexeddb.leveldb/000013.log 
+2024/05/29-04:43:28.079 4cdf Level-0 table #17: started
+2024/05/29-04:43:28.083 4cdf Level-0 table #17: 96132 bytes OK
+2024/05/29-04:43:28.088 4cdf Delete type=0 #13
+2024/05/29-04:43:28.088 4cdf Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x02\x02\x01\x06\x00s\x00t\x00a\x00t\x00e\x00s' @ 2220 : 1
+2024/05/29-04:43:28.089 4cdf Compacting 1@0 + 1@1 files
+2024/05/29-04:43:28.106 4cdf Generated table #18@0: 92 keys, 23116 bytes
+2024/05/29-04:43:28.106 4cdf Compacted 1@0 + 1@1 files => 23116 bytes
+2024/05/29-04:43:28.113 4cdf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/29-04:43:28.114 4cdf Delete type=2 #17
+2024/05/29-04:43:28.115 4cdd Manual compaction at level-0 from '\x00\x04\x02\x02\x01\x06\x00s\x00t\x00a\x00t\x00e\x00s' @ 2220 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

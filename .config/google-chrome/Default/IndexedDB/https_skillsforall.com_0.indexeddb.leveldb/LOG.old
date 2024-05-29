@@ -1,0 +1,6 @@
+2024/05/28-21:35:41.082 4cdf Reusing MANIFEST /home/martin/.config/google-chrome/Default/IndexedDB/https_skillsforall.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/28-21:35:41.083 4cdf Recovering log #8
+2024/05/28-21:35:41.083 4cdf Reusing old log /home/martin/.config/google-chrome/Default/IndexedDB/https_skillsforall.com_0.indexeddb.leveldb/000008.log 
+2024/05/28-21:37:13.775 4cdf Level-0 table #14: started
+2024/05/28-21:37:13.831 4cdf Level-0 table #14: 1369422 bytes OK
+2024/05/28-21:37:13.834 4cdf Delete type=0 #8

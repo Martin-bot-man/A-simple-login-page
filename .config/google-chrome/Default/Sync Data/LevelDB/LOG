@@ -1,0 +1,10 @@
+2024/05/29-07:08:13.315 9ed Reusing MANIFEST /home/martin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/05/29-07:08:13.318 9ed Recovering log #883
+2024/05/29-07:08:13.319 9ed Reusing old log /home/martin/.config/google-chrome/Default/Sync Data/LevelDB/000883.log 
+2024/05/29-07:08:13.320 9ed Delete type=2 #885
+2024/05/29-08:07:00.679 9f9 Level-0 table #885: started
+2024/05/29-08:07:00.693 9f9 Level-0 table #885: 154593 bytes OK
+2024/05/29-08:07:00.698 9f9 Delete type=0 #883
+2024/05/29-08:24:07.023 9ec Level-0 table #887: started
+2024/05/29-08:24:07.067 9ec Level-0 table #887: 102740 bytes OK
+2024/05/29-08:24:07.073 9ec Delete type=0 #884

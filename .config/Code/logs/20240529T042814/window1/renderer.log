@@ -1,0 +1,37 @@
+2024-05-29 04:28:17.043 [info] Started local extension host with pid 56477.
+2024-05-29 04:28:17.208 [info] Started initializing default profile extensions in extensions installation folder. file:///home/martin/.vscode/extensions
+2024-05-29 04:28:17.982 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/martin/.vscode/extensions
+2024-05-29 04:28:20.373 [info] [perf] Render performance baseline is 40ms
+2024-05-29 04:28:51.099 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-05-29 06:01:06.642 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async _ (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async ne.Kc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async ne.uc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-05-29 06:01:06.645 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async ee.getExtensions (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:17451)
+    at async X.getExtensions (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:14090)
+    at async Oe.Oc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:25245)
+    at async Oe.Xc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:28048)
+    at async Oe.uc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-05-29 06:01:07.651 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032

@@ -1,0 +1,1567 @@
+{
+  "sidebar": "Šoninė juosta",
+  "shortcut": "Spartusis klavišas",
+  "ask": "Paklausk",
+  "save": "Išsaugok tai",
+  "saved": "Išsaugota",
+  "delete": "Ištrinti",
+  "deleteAll": "Ištrinti viską",
+  "remove": "Pašalinti",
+  "cancel": "Atšaukti",
+  "retry": "Bandykite dar kartą",
+  "stop": "Sustabdyti",
+  "insert": "Įdėti",
+  "replace": "Pakeiskite",
+  "ok": "Gerai",
+  "submit": "Pateikti",
+  "attention": "Pastebėti",
+  "welcome": "Sveiki",
+  "send": "Siųsti",
+  "copy": "Kopijuoti",
+  "copied": "Nukopijuota",
+  "clear": "Aišku",
+  "quote": "Citata",
+  "download": "Atsisiųsti",
+  "collapse": "Sutraukti šoninę juostą",
+  "done": "padaryta",
+  "manage": "Tvarkyti",
+  "template": "šabloną",
+  "edit": "Redaguoti",
+  "add": "Papildyti",
+  "feedback": "Atsiliepimas",
+  "tweetit": "Sekite mus X",
+  "fullPageChat": "Pokalbis per visą puslapį",
+  "whatNew": "Naujos funkcijos",
+  "helpCenter": "Pagalbos centras",
+  "gotIt": "Supratau",
+  "you": "Tu",
+  "settings": "Nustatymai",
+  "signin": "Prisijungti",
+  "createAccount": "Sukurti paskyrą",
+  "createAccountTip": "Užsiregistruokite, kad gautumėte <a>{{NUM}} nemokamas</a> užklausas kasdien",
+  "free": "nemokama",
+  "signinNow": "Prisijunk dabar",
+  "unlimited": "Neribota",
+  "share": "Dalintis",
+  "myChats": "Mano pokalbiai",
+  "general": "Bendra konfigūracija",
+  "archive": "archyvas",
+  "unarchive": "išarchyvuoti",
+  "searchPage": "Paieškos puslapis",
+  "addons": "Priedai",
+  "webStore": "Internetinė parduotuvė",
+  "webApp": "Žiniatinklio programa",
+  "webAccess": "Prieiga prie interneto",
+  "upgradeNow": "Patobulinti dabar",
+  "upgrade": "Patobulinti",
+  "language": "Kalba",
+  "theme": "tema",
+  "sendShortcut": "Siųsti nuorodą",
+  "model": "Modelis",
+  "version": "Versija",
+  "more": "Daugiau",
+  "listen": "Klausyk",
+  "skip": "Praleisti",
+  "switchModel": "Pakeisti botą",
+  "vote": "Balsas",
+  "invite": "Pakviesti",
+  "hide": "Slėpti",
+  "logout": "Atsijungti",
+  "pin": "Prisegti",
+  "unpin": "atsegti",
+  "showMore": "Rodyti daugiau",
+  "editTitle": "Redaguoti pavadinimą",
+  "summarize": "Apibendrinti",
+  "keypoints": "Pagrindiniai klausimai",
+  "quiz": "Viktorina",
+  "textFromSelect": "Tekstas iš jūsų pasirinkimo",
+  "textFromOCR": "Tekstas iš OCR",
+  "textFromTranslate": "Vertimo tekstas",
+  "quoteText": "Citatos tekstas",
+  "summarizing": "Apibendrinant",
+  "summarizeFailed": "Santrauka nepavyko",
+  "answering": "Atsakymas",
+  "productivity": "Produktyvumas",
+  "generating": "Generavimas",
+  "modelUpdateSuccess": "Modelis sėkmingai atnaujintas",
+  "modelUpdateFailed": "Nepavyko atnaujinti modelio",
+  "customPrompt": "Pasirinktinis raginimas",
+  "currentTpl": "Dabartinis šablonas:",
+  "current": "Dabartinė",
+  "extra": "papildomai",
+  "quotaUsed": "naudojamas",
+  "editTpl": "Redaguoti šį šabloną",
+  "delteTpl": "Ištrinkite šį šabloną",
+  "restoreTpl": "Atkurti šį šabloną",
+  "archiveTpl": "Archyvuokite šį šabloną",
+  "showTpl": "Rodyti šį šabloną",
+  "prompts": "Pasirinkite užduotį",
+  "imageRetryTip": "Įvyko klaida. Bandykite dar kartą.",
+  "mentionBot": "Minėti botą",
+  "mentionGPTs": "Paminėkite GPT",
+  "promptName": "Raginimo pavadinimas",
+  "promptContent": "Greitas turinys",
+  "contactUs": "Susisiekite su mumis",
+  "webAssistant": "Žiniatinklio asistentas",
+  "quickAction": "Kontekstinis meniu",
+  "promptManage": "Greitas vadovas",
+  "issueType": "Problemos tipas",
+  "pinExt": "Smeigtuko plėtinys",
+  "yourEmailAddress": "Jūsų elektroninio pašto adresas",
+  "troubleshooting": "Problemų sprendimas",
+  "openSidebar": "Atidaryti šoninę juostą",
+  "pasteSelection": "Įklijavimo pasirinkimas",
+  "pasteTextPage": "Įklijuokite tekstą iš puslapio",
+  "getAnotherKey": "Gaukite kitą raktą",
+  "showSearchPanel": "Rodyti paieškos skydelį",
+  "getItNow": "Gauk Tai dabar",
+  "addTools": "Įtraukti įrankius",
+  "toolsTitle": "Įrankiai",
+  "notNow": "Ne dabar",
+  "alwaysDisplay": "Visada rodyti",
+  "queries": "Užklausos",
+  "total": "viso",
+  "getMore": "gauti daugiau",
+  "goPremium": "atnaujinti į premium",
+  "goPremiumGetMore": "atnaujinkite į premium, kad gautumėte daugiau",
+  "myAccount": "Mano sąskaita",
+  "clickToAsk": "Spustelėkite norėdami paklausti",
+  "searchingFor": "Ieškoti:",
+  "searchedFor": "Ieškojo:",
+  "conversationTip": "Šis pokalbis sugeneruojamas {{CHATPROVIDER}}. Norėdami tęsti, perjunkite į šį režimą arba pradėkite naują pokalbį.",
+  "using": "Naudojant",
+  "used": "Naudota",
+  "switchAndContinue": "Perjunkite ir tęskite",
+  "ExtractText": "Ištraukite tekstą iš paveikslėlio",
+  "describleImage": "Apibūdinkite šį vaizdą",
+  "pricePerDay": "Mažiau nei {{num}} per dieną",
+  "readingAssistant": "Skaitymo asistentas",
+  "writingAssistant": "Rašymo asistentas",
+  "summarizePage": "Apibendrinkite šį puslapį",
+  "readPage": "Perskaitykite šį puslapį",
+  "moreQueries": "Daugiau užklausų!",
+  "newPlan": "Naujas planas",
+  "switchToXXX": "Perjungti į {{model}}",
+  "switchToSider": "Perjunkite į {{APP_NAME}} API",
+  "switch": "Perjungti",
+  "settingApiKey": "API rakto nustatymas",
+  "all": "Visi",
+  "dropMsg": "Nuvilkite čia, norėdami siųsti į Sider",
+  "success": "Sėkmė",
+  "usedIn": "Naudojamas",
+  "check": "Patikrinti",
+  "example": "Pavyzdys",
+  "toolsUpgradeTitle": "Atnaujinkite, kad pagerintumėte savo pokalbių patirtį!",
+  "ChangeTone": "Keisti toną",
+  "screenshot": "Ekrano kopija",
+  "takeAScreenshot": "Padarykite ekrano nuotrauką",
+  "back": "Atgal",
+  "uploadImage": "Įkelti paveikslėlį",
+  "hideImage": "Slėpti vaizdą",
+  "chatWithPDF": "Pokalbis su PDF",
+  "recentFiles": "Naujausi failai",
+  "orTakeAction": "Arba imkitės kitų veiksmų:",
+  "NoFiles": "Šiame pokalbyje nėra naujausių failų",
+  "showImage": "Rodyti vaizdą",
+  "fullscreen": "Per visą ekraną",
+  "moreQuery": "Daugiau užklausų",
+  "moreFeature": "Daugiau funkcijų!",
+  "switchToSidepanel": "Perjungti į šoninę juostą",
+  "OR": "ARBA",
+  "enable": "Įjungti",
+  "refresh": "Atnaujinti",
+  "painterOnBoardingTip": "Spustelėkite čia norėdami sukurti ir redaguoti AI paveikslėlį",
+  "pdfOnBoardingTip": "Spustelėkite čia norėdami naudoti ChatPDF",
+  "refreshModel": "Atnaujinti modelius",
+  "refreshing": "Atnaujinama",
+  "collapseNav": "Suskleisti naršymo juostą",
+  "expandNav": "Išplėsti naršymo juostą",
+  "phoneNumber": "Telefono numeris",
+  "recognizing": "Atpažinti",
+  "earnFree": "Uždirbkite nemokamus GPT-4.0 užklausas",
+  "result": "Rezultatas",
+  "sidepanelTip": "Šoninio skydelio patarimas",
+  "continue": "Tęsti",
+  "confirm": "Patvirtinti",
+  "describeImage": "Apibūdinkite šį vaizdą",
+  "inviteFriendTip": "<a>Pakvieskite draugų</a>, kad gautumėte papildomų užklausų",
+  "resetTime": "Nustatyti iš naujo <a>2023 m. rugpjūčio 3 d.</a>",
+  "imageQuoteTipTitle": "Dar kartą paklausti paveikslėlio? Reikia cituoti paveikslėlį",
+  "imageQuoteTipContent": "Norėdami dar kartą paklausti apie vaizdą, tiesiog cituokite jį.",
+  "ocrEmptyMsg": "Atsiprašome, šiame paveikslėlyje nerandu teksto.",
+  "imageInputHint": "Užduokite klausimų apie šį paveikslėlį",
+  "selectedTextInputHint": "Užduoti klausimus apie pasirinktą tekstą",
+  "fileInputHint": "Užduoti klausimus apie šį failą",
+  "inviteYourFriends": "Pakviesti draugus",
+  "xmasSale": "Kalėdinis išpardavimas",
+  "bigSale": "Išpardavimas",
+  "bigSaleRest": "Išpardavimas",
+  "videoTutorial": "Peržiūrėti detalės",
+  "edgePasteBug": "Nepavyksta įklijuoti naudojant sparčiuosius klavišus dėl \"Edge\" naršyklės klaidos. Dešiniuoju pelės mygtuku spustelėkite, kad įklijuotumėte.",
+  "enable&continue": "Įjungti ir tęsti",
+  "seeMoreHelp": "Sužinokite daugiau <a>Pagalbos centre</a>",
+  "login": {
+    "google": "Tęsti su Google",
+    "apple": "Tęsti su Apple",
+    "microsoft": "Tęsti su Microsoft",
+    "phone": "Tęsti su Telefonu"
+  },
+  "loginTip": "Neturite paskyros? <a>Sukurti paskyrą</a>",
+  "signupTip": "Jau turite paskyrą? <a>Prisijungti</a>",
+  "guideVideoTitle": {
+    "chat": "Pokalbiai",
+    "translation": "Versti",
+    "summary": "Santrauka",
+    "chatpdf": "ChatPDF",
+    "write": "Rašyti",
+    "painter": "Tapytojas",
+    "ocr": "OCR",
+    "grammar": "Gramatika",
+    "email": "El. laiško atsakymas"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Multi-bot pokalbiai",
+      "web-access": "Prieiga prie interneto",
+      "data-analysis": "Išplėstinė duomenų analizė",
+      "painter": "Vaizdų generavimas",
+      "prompts": "Individualizuoti užklausimai"
+    },
+    "translation": {
+      "widget": "Pasirinktas tekstas per šoninę juostą",
+      "selected": "Pasirinktas tekstas per kontekstinį meniu",
+      "input": "Įvestas tekstas puslapyje",
+      "page": "Visas puslapis",
+      "in-chat": "Pasirinktas tekstas pokalbyje",
+      "in-chat2": "Įvestas tekstas pokalbyje"
+    },
+    "summary": {
+      "youtube": "YouTube vaizdo įrašai",
+      "doc": "Įkelti dokumentai",
+      "page": "Puslapis per greitąjį meniu",
+      "page2": "Puslapis per pokalbį"
+    },
+    "chatpdf": {
+      "chatpdf": "Pokalbis su PDF"
+    },
+    "write": {
+      "widget": "Kurti pagal poreikį",
+      "context": "Pagerinti pasirinktą tekstą",
+      "input": "Perrašyti įvestis"
+    },
+    "painter": {
+      "image": "Generuoti vaizdus",
+      "bg-remove": "Pašalinti foną",
+      "bg-replace": "Pakeisti foną",
+      "upscale": "Padidinti vaizdų raišką",
+      "eraser": "Pašalinti ištrintą plotą",
+      "text-remove": "Pašalinti tekstą"
+    },
+    "ocr": {
+      "ocr": "Išgauti tekstą ir lygtis"
+    },
+    "grammar": {
+      "widget": "Gramatikos tikrinimas per šoninę juostą",
+      "context": "Gramatikos tikrinimas per kontekstinį meniu"
+    },
+    "email": {
+      "reply": "Generuoti el. laiškų atsakymus"
+    }
+  },
+  "popupPage": {
+    "thank": "Dėkojame, kad naudojate plėtinį {{APP_NAME}}!",
+    "desc": "Dabartinis puslapis yra unikalus, o šoninės juostos funkcija nepasiekiama. Tačiau norėdami kalbėtis galite atidaryti visą puslapį!",
+    "chatNow": "Kalbėkitės dabar"
+  },
+  "setupPage": {
+    "loginSuccess": "Prisijungimas sėkmingas",
+    "welcome": "Sveiki, tai – {{APP_NAME}}!",
+    "startUsing": "Pradėkite naudotis {{APP_NAME}}",
+    "explore": "Pakvieskime tyrinėti {{FEATURE_NAME}} funkciją",
+    "favorites": "Chrome populiariausias plėtinys",
+    "fiveStarRate": "5 žvaigždučių įvertinimai",
+    "activeUser": "Aktyvūs vartotojai",
+    "userCount": "4M+",
+    "spamMsg": "Jūsų duomenys nebus išskleisti ir nebus siunčiama jokio šlamšto.",
+    "privacy": "Tęsdami sutinkate su <a>Privatumo politika</a> ir <b>Naudojimosi taisyklėmis</b>.",
+    "privacyPart1": "Tęsdami sutinkate su",
+    "privacyPart2": "<a>Privatumo politika</a> ir <b>Naudojimosi taisyklėmis</b>",
+    "loginWith": "Prisijunkite naudodami {{name}}",
+    "pinTips": "<b>Prisekite {{APP_NAME}}</b>, lengviau pasiekti!",
+    "pinClickTip": "Spustelėkite {{icon}}, kad prisegtumėte {{APP_NAME}}",
+    "pinClickTip2": "Prisegti {{APP_NAME}} greitam naudojimui",
+    "pinClickTip3": "Spustelėkite {{icon}} piktogramą viršutiniame dešiniajame kampe",
+    "next": "Kitas",
+    "pinGuideDesc": "Kad būtų lengviau pasiekti plėtinį, palikite jį prisegtą atlikdami toliau nurodytus veiksmus.\n1. Spustelėkite galvosūkio piktogramą <b>ICON</b> šalia savo profilio pseudoportreto.\n2. Išskleidžiamajame meniu raskite {{APP_NAME}}.\n3. Spustelėkite smeigtuko piktogramą, kol ji taps mėlyna.",
+    "signInGuideTitle": "Prisijunkite dabar, kad atrakintumėte šiuos dalykus:",
+    "signInGuideStep1": "Sinchronizuoti plėtinių nustatymus visuose kompiuteriuose",
+    "signInGuideStep2": "Pasiekite raginimus iš skirtingų nešiojamųjų kompiuterių",
+    "signInGuideStep3": "Išsaugokite pokalbius būsimam naudojimui",
+    "signInGuideStep4": "Bendrinkite pokalbius naudodami nuorodą",
+    "welcomeGuide": "Sveiki atvykę į {{APP_NAME}}",
+    "step1Label": "Pirmas žingsnis",
+    "step2Label": "antrasis žingsnis",
+    "tryOut": "Išbandyk",
+    "endTitle": "{{APP_NAME}} pasiruošęs jums padėti!",
+    "endTip": "Dabar galite naršyti bet kurioje svetainėje arba pasinerti į mūsų Pagalbos centrą, kad sužinotumėte daugiau.",
+    "learnMore": "Sužinokite daugiau apie {{APP_NAME}}",
+    "endBottom": "Reikia pagalbos ar turite pasiūlymų?",
+    "endBottom2": "Vertiname jūsų įnašą! <a>Pateikite atsiliepimą</a>, kad padėtumėte mums gerinti jūsų patirtį."
+  },
+  "getKeyPage": {
+    "welcome": "Sveiki, tai – {{APP_NAME}}! Štai jūsų kelionės pradžia:",
+    "stepTitle": "Kaip gauti API raktą.",
+    "step1": "1 veiksmas: gaukite API raktą",
+    "step1-1": "<i>Prisijunkite prie savo OpenAI paskyros</i> Jei neturite paskyros, prisiregistruokite <b>ČIA</b>",
+    "step1-2": "Apsilankykite OpenAI API rakto puslapyje",
+    "step1-3": "Sukurkite naują slaptą raktą ir nukopijuokite jį taip",
+    "step2": "2 veiksmas: įklijuokite API raktą į žemiau esantį laukelį",
+    "step2-tips": "Nesijaudink. Jūsų API raktas naudojamas tik vietoje „ChatGPT“ plėtinyje. API naudojimas yra stabilesnis nei tiesioginis ChatGPT naudojimas.",
+    "step3": "3 veiksmas: patikrinkite savo kreditus <i>čia</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Kaip pasiekti „ChatGPT“ ir naudoti jį bet kur",
+    "howToAccessTip": "Siekdami užtikrinti, kad dirbtinis intelektas būtų prieinamas visiems, siūlome 3 būdus pasiekti „ChatGPT“ ir naudoti jį bet kur.",
+    "recommend4all": "(Rekomenduoju visiems)",
+    "sidebarProvider": "Šoninėje juostoje naudojama „ChatGPT Premium“ API, kad būtų užtikrinta stabili prieiga.",
+    "sidebarProviderGoPremium": "Siūlome {{num}} nemokamų kasdienių užklausų, kad AI būtų pasiekiami visiems. <a>Naujovinkite į aukščiausios kokybės versiją</a>, kad padidintumėte dienos užklausų limitą ir palaikytumėte mūsų misiją <b>visiems teikti universalųjį AI</b>.",
+    "webappProvider": "API maitinanti ChatGPT žiniatinklio programa yra nemokama, tačiau kartais ji gali būti nestabili.",
+    "webappGPT4": "(„ChatGPT Plus“ vartotojai gali tai išbandyti)",
+    "webappTip1": "Jei esate „ChatGPT Plus“ vartotojas, dabar turite galimybę pasirinkti GPT-4. Tačiau OpenAI gali apriboti pranešimų, kuriuos galite išsiųsti per dieną, skaičių.",
+    "webappTip2": "<m>Prisekite „ChatGPT“ skirtuką</m> ir būkite prisijungę „ChatGPT“ svetainėje. Tačiau tai gali negarantuoti stabilumo. Jei kyla problemų, apsilankykite <v>ChatGPT svetainėje </v> ir atnaujinkite puslapį.",
+    "GPT4Desc": "Turite likti prisijungę prie savo ChatGPT paskyros svetainėje. Dėl „OpenAI“ apribojimo stabilumas gali būti nenuoseklus ir „Plus“ vartotojams, ir nemokamiems vartotojams.",
+    "apiKeyProviderTip": "(Kūrėjams, turintiems API raktą)",
+    "apiKeyProvider": "Oficiali OpenAI API yra stabilesnė, o mokesčiai priklauso nuo naudojimo.",
+    "apiKeyLocally": "Jūsų API raktas yra saugomas jūsų naršyklėje ir niekur kitur nesiunčiamas.",
+    "ownURL": "Naudokite savo URL",
+    "customModelName": "Naudokite pasirinktinį modelio pavadinimą",
+    "apiKeyTip1": "Gali būti, kad jūsų nemokamas OpenAI API raktas pasibaigė. <a>Čia patikrinkite API rakto galiojimo pabaigos būseną.</a>",
+    "apiKeyTip2": "Jei naudojate nemokamą OpenAI API raktą, prieiga prie ChatGPT gali būti nestabili, kai jos paklausa yra didelė.",
+    "apiFreeGuide": "Vadovaukitės vadovu, kad gautumėte API raktą.",
+    "apiKeyGpt4Tip": "Plėtinys palaiko GPT-4, jei įvesite GPT-4 API raktą.",
+    "displaySearchRes": "Rodyti ChatGPT atsakymą kartu su paieškos rezultatų puslapiais",
+    "whenToAsk": "Kada paklausti „ChatGPT“.",
+    "promptTplForSearch": "„Google“ ir kitų paieškos sistemų raginimas šablonas",
+    "addNewTplForSearch": "Pridėkite naują raginimo šabloną",
+    "launchSidebar": "Paleiskite šoninę juostą",
+    "sidebarLocation": "Šoninės juostos vieta",
+    "showSelectedTextTitle": "Automatiškai Rodyti Pasirinktą Tekstą Įvedimo Lange",
+    "showSelectedTextDesc": "Automatiškai rodyti pasirinktą tekstą kaip citatą įvedimo lange greitiems veiksmams su užklausomis",
+    "showSelectedTextTip": "Jei nenorite, kad pasirinktas tekstas ateityje būtų rodomas automatiškai, galite tai išjungti <a>šoninės juostos nustatymuose</a>.",
+    "sidepanelLocation": "Šoninės juostos vieta",
+    "sidebarLeftOrRight": "Padėkite šoninę juostą kairėje arba dešinėje pusėje",
+    "linkToSetting": "Keisti šoninės juostos vietą naršyklės nustatymuose",
+    "sidepanelLeftOrRight": "Padėkite šoninę panelę kairėje arba dešinėje pusėje. Šoninė panelė yra prieinama tik „Google Chrome“ 114 versijoje arba vėliau.",
+    "sidebarDisplayOption": "Šoninės juostos rodymo režimas",
+    "sidebarDisplayOptionTip": "Pasirinkite, kaip puslapyje bus rodoma šoninė juosta",
+    "sidebarDisplayOptions": {
+      "overlay": "Perdanga",
+      "expand": "Plečia"
+    },
+    "sidebarOnStartup": "Atidarius šoninę juostą",
+    "sidebarOnStartupTip": "Konfigūruokite pokalbių sąsajos rodymo režimą, atidarant šoninę juostą",
+    "sidebarOnStartupOptions": {
+      "new": "Visada pradėti naują pokalbį",
+      "last": "Visada tęsti paskutinį pokalbį",
+      "auto": "Automatiškai"
+    },
+    "sidebarOnStartupAutoTip": "Jei šoninė juosta atidaroma per 10 minučių, tęskite paskutinį pokalbį; jei per daugiau nei 10 minučių, pradėkite naują.",
+    "sidebarIcon": "Šoninės juostos piktograma",
+    "sidebarIconAccess": "Pasiekite šoninę juostą naudodami piktogramą, esančią apatiniame dešiniajame puslapio kampe. Galite vilkti, kad judintumėte aukštyn ir žemyn",
+    "easiestWayUse": "Lengviausias būdas naudoti {{APP_NAME}}",
+    "displayWhenSelect": "Rodyti, kai pasirenkamas tekstas",
+    "promptTplForSidebar": "Šoninės juostos raginimo šablonas",
+    "dragSidebarTpl": "Vilkite ir numeskite, kad pertvarkytumėte šabloną ARBA suarchyvuokite tuos, kurių nenaudosite",
+    "addNewTplForSidebar": "Pridėti naują raginimo šabloną",
+    "editSearchTplTip": "naudokite {{keywords}}, kad nurodytumėte savo paieškos raktinius žodžius",
+    "editSearchTplPlaceholder": "{{keywords}} raginimo turinyje bus automatiškai pakeisti paieškos raktiniais žodžiais",
+    "editSidebarTplTip": "Įklijuokite arba įveskite turinį čia",
+    "showOnList": "Rodyti sąraše",
+    "translatorNavTitle": "Greita paieška",
+    "translatorTitle": "Greitos peržiūros langas",
+    "translatorFabTitle": "Greitos peržiūros piktograma",
+    "translatorFabDesc": "Pasiekite greitosios paieškos langą naudodami piktogramą.",
+    "translatorFabToggleLabel": "Rodyti, kai pasirenkamas tekstas",
+    "translatorTplTitle": "Iššokančio lango raginimo šablonas",
+    "translatorTplDesc": "Pirmasis pagrindinis šablonas bus naudojamas kaip numatytoji iššokančiojo lango komanda.",
+    "translatorPrimaryTemplates": "Pagrindiniai šablonai",
+    "translatorTemplatesNotes": "*Šis iššokantis langas turi tuos pačius šablonus kaip ir šoninė juosta. Jei reikia redaguoti arba pridėti šabloną, pakeiskite jį <b>šoninės juostos Nustatymai</b>.",
+    "translatorIntroTitle": "🤔 Kas yra greitoji paieška?",
+    "translatorIntroDesc": "Greitoji peržiūra yra greitas {{APP_NAME}} veiksmas, teikiantis daugybę naudingų įrankių.\n\nJis pasirodo iškart, kai pasirenkate tekstą. Vos vienu spustelėjimu galite greitai išversti tekstus, juos perrašyti, gauti paaiškinimų ir dar daugiau. Be to, galite pertvarkyti įrankių tvarką ir tinkinti savo raginimus.\n\nNorėdami suaktyvinti {{APP_NAME}}, tereikia spustelėti greitosios peržvalgos piktogramą.",
+    "translatorHostFabConfigLabel": "Svetainių, kuriose greitoji paieška išjungta, sąrašas",
+    "translatorShortcutLabel": "Spartusis klavišas greitajai paieškai",
+    "quickAction": {
+      "shortcutDesc": "Suaktyvinkite {{name}} naudodami nuorodą",
+      "whenToDisplay": "{{name}} rodymo nustatymai",
+      "displayOnSelect": "Automatiškai rodyti {{name}}, kai pažymiu tekstą",
+      "displayOnShortcut": "Rodyti {{name}}, kai pažymiu tekstą ir paspaudžiu sparčiojo klavišo kombinaciją",
+      "displayOnSelectGuide": "Norite švaresnio vaizdo? Aktyvinkite kontekstinį meniu pasirinktinu sparčiuoju klavišu <a>nustatymuose</a>.",
+      "goToSettings": "Eiti į Nustatymus",
+      "customPromptMenu": "Tinkinti šio meniu raginimą",
+      "readTitle": "Skaitymo kontekstinis meniu",
+      "selectionDesc": "Rodyti meniu, kai pasirenkate bet kurį tekstą",
+      "diabledSite": "Svetainių, kuriose ši funkcija išjungta, sąrašas",
+      "writeTitle": "Kontekstinis meniu rašymui (įvesties laukelis)",
+      "writeInputIconTitle": "Įvesties laukelio piktograma",
+      "writeInputIconDesc": "Rodyti rašymo asistento piktogramą bet kuriame įvesties laukelyje",
+      "triggerKeyword": "Suaktyvinti raktinius žodžius",
+      "triggerKeywordDesc": "Suaktyvinkite {{name}} visose teksto įvestėse naudodami raktinius žodžius",
+      "whatisQuickAction": "🤔 Kas yra {{name}}?",
+      "quickActionDesc": "{{name}} yra vertingų įrankių rinkinys, kuris yra lengvai pasiekiamas, kai pasirenkate tekstą arba naudojate spartųjį klavišą. Vienu spustelėjimu galite greitai patobulinti savo skaitymą ar rašymą. Be to, galite suaktyvinti raginimo įvesties laukelį, kuris padės įvykdyti konkrečius reikalavimus skaitant ar rašant. Tai apima tokias užduotis kaip temos metmenų kūrimas, minčių šturmas ir pastraipų perrašymas."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "„YouTube“ vaizdo įrašų santrauka",
+        "desc": "Kai įjungta, {{APP_NAME}} gali padėti apibendrinti „YouTube“ vaizdo įrašus"
+      },
+      "webpage": {
+        "title": "Tinklalapio santrauka",
+        "desc": "Kai įjungta, {{APP_NAME}} gali padėti apibendrinti tinklalapio straipsnius"
+      },
+      "qa": {
+        "title": "Klausimų ir atsakymų padėjėjas",
+        "desc": "Kai įjungta, {{APP_NAME}} gali atsakyti į klausimą „Quora“, „StackOverflow“ ir kitose kokybės užtikrinimo svetainėse"
+      },
+      "pageTranslation": {
+        "desc": "Kai įjungta, {{APP_NAME}} gali išversti visą puslapį į tikslinę kalbą"
+      },
+      "code": {
+        "title": "Kodo asistentas",
+        "desc": "Įjungus, {{APP_NAME}} gali padėti jums paaiškinti kodus interneto puslapyje"
+      },
+      "image": {
+        "title": "Vaizdo Asistentas",
+        "desc": "Įjungus, galėsite greitai pasiekti AI vaizdo įrankius užvedę pelę ant bet kurio vaizdo"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Naujas raginimas",
+      "editPrompt": "Redaguoti raginimą",
+      "checkPrompt": "Patikrinkite raginimą",
+      "archiveTips": "Archyvuoti raginimai nebus rodomi pagal scenarijus, bet jų galima ieškoti",
+      "dragTips": "Vilkite ir numeskite, kad pertvarkytumėte raginimą ARBA suarchyvuokite tuos, kurių nenaudosite atitinkamame scenarijuje",
+      "howToWritePrompt": "Kaip parašyti raginimą",
+      "howToVarTitle": "Kokie kintamieji gali būti įtraukti į raginimą?",
+      "howToVar1": "Šį kintamąjį galite naudoti įvesties arba pasirinkto turinio vaizdavimui. Jei raginime šio kintamojo nėra, įvestis arba pasirinktas turinys bus su trimis kabutėmis ir patalpinamas pačioje raginimo pabaigoje.",
+      "howToVar2": "Šį kintamąjį galite naudoti norėdami nurodyti kalbą, kurią norite naudoti išvesties, remiantis numatytąją nustatymuose nustatytą kalbą.",
+      "howToExample": "Naudokite šias temas arba raktinius žodžius, kad sukurtumėte kontūrą, apimantį pavadinimus, skyrius ir poskyrius.\nIšveskite jį Markdown formatu. Duok man tik išvestį ir nieko daugiau. Kontūras turi būti {{lang}} kalba.\nTemos arba raktiniai žodžiai: {{content}}",
+      "clickToExpand": "Spustelėkite norėdami išplėsti",
+      "clickToHide": "Spustelėkite norėdami paslėpti"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Problemos ataskaita",
+        "title": {
+          "label": "Problemos santrauka",
+          "tip": "Keliais žodžiais praneškite, kas nutiko."
+        },
+        "detail": {
+          "label": "Problemos detalės",
+          "tip": "Išsamiai aprašykite, kas nutiko, kokius veiksmus atlikote, ir gautus klaidų pranešimus."
+        }
+      },
+      "fr": {
+        "name": "Funkcijos užklausa",
+        "title": {
+          "label": "Pavadinimas",
+          "tip": "Apie ką jūsų prašymas?"
+        },
+        "detail": {
+          "label": "apibūdinimas",
+          "tip": "Pateikite išsamų norimos naujos funkcijos aprašymą."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Klauskite ChatGPT:",
+    "savePrompt": "Išsaugoti raginimą",
+    "saveNewPrompt": "Išsaugoti kaip naują raginimą",
+    "replacePrompt": "Pakeiskite raginimą",
+    "inputPlaceholder1": "Įveskite raginimą arba pasirinkite iš meniu",
+    "inputPlaceholder2": "Įklijuokite arba įveskite turinį čia",
+    "startNewLine": "Norėdami pradėti naują eilutę, paspauskite {{shortcut}}",
+    "inputPlaceholderCodes": "Čia įklijuokite arba įveskite kodus",
+    "inputPlaceholderQA": "Įklijuokite arba įveskite klausimą čia",
+    "pressToSubmit": "Paspauskite {{key}}, kad pateiktumėte",
+    "response": "Atsakymas:",
+    "stopGenerating": "Nustokite generuoti",
+    "regenerate": "Regeneruoti atsaką",
+    "askTabLabel": "Paklausk",
+    "chatTabLabel": "Pokalbis",
+    "moreTabLabel": "Daugiau",
+    "composeTabLabel": "Rašyti",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Išversti",
+    "grammarTabLabel": "Gramatika",
+    "searchTabLabel": "Ieškoti",
+    "queryLeft": "Liko užklausų: {{num}}",
+    "queryLeft2": "Liko {{num}}",
+    "freePlan": "Nemokamas planas",
+    "premiumPlan": "Premium planas",
+    "extraQuota": "Papildoma kvota",
+    "submitOption": "Pateikti parinktį",
+    "painterLabel": "Dailininkas",
+    "downloadLabel": "Atsisiųsti kompiuterio/mobiliosios programėlės",
+    "uploadPDF": "Įkelti PDF",
+    "deleteAllConfirmTitle": "Ištrinti viską"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Labai greitas, puikiai tinka daugeliui kasdienių užduočių.",
+    "gpt-4": "Pajėgiausias modelis, geriausiai tinka sudėtingoms užduotims, kurioms reikia pažangaus samprotavimo.",
+    "gpt-4o": "Labiausiai pajėgus modelis, geriausiai tinka sudėtingiems uždaviniams, reikalaujantiems pažangaus mąstymo.",
+    "gpt-5": "Naujausias OpenAI modelis, geriausias sudėtingoms užduotims, išlaikant kokybę.",
+    "claude-instant": "Pagrindinis modelis iš Anthropic, mažai delsos, didelio pralaidumo naudojimo atvejų.",
+    "claude2": "Geriausias savo klasėje pasiūlymo modelis iš Anthropic, puikus našumas atliekant užduotis, kurioms reikia sudėtingo samprotavimo.",
+    "claude-3-haiku": "Anthropic kompaktiškiausias modelis, sukurtas beveik akimirksniu reaguoti ir suteikti sklandžias dirbtinio intelekto patirtis, kurios imituoja žmogaus sąveiką",
+    "claude-3-sonnet": "Anthropic's modelis, kuris yra labiausiai subalansuotas tarp intelekto ir greičio, idealus plačiam užduočių spektrui.",
+    "claude-3-opus": "Anthropic's galingiausias modelis, kuris pasižymi aukščiausiu našumu sudėtingose užduotyse ir demonstruoja sklandumą ir žmogišką supratimą.",
+    "bard": "„Google“ modelis (PaLM 2) puikiai atlieka sudėtingas samprotavimo užduotis.",
+    "gemini-pro": "„Google“ subalansuotiausias modelis, puikiai derinantis galimybes su efektyvumu.",
+    "gemini-1.5-pro": "Google geriausias modelis bendrai veiklai įvairiose užduotyse.",
+    "gemini-1.5-flash": "Google lengvasis modelis, optimizuotas greičiui ir efektyvumui.",
+    "llama-3": "Meta naujausias modelis, geriausias sudėtingoms užduotims atlikti išlaikant kokybę."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Kaina <m>1 greito teksto užklausa</m>.",
+    "gpt-4": "Kaina <m>1 išplėstinė teksto užklausa</m>.",
+    "gpt-4-2": "Kaina <m>2 Išplėstinis teksto užklausos</m>.",
+    "gpt-4-n": "Kaina <m>{{num}} išplėstinės teksto užklausos</m>."
+  },
+  "sidebarChatPanel": {
+    "signinToAsk": "Prisijunkite, kad paklaustumėte {{MODEL_NAME}}",
+    "newChat": "Naujas pokalbis",
+    "chatHistory": "Pokalbių istorija",
+    "inputPlaceholder": "Įveskite žinutę...",
+    "send": "Siųsti",
+    "feedback": "Atsiliepimas",
+    "share": "Dalintis",
+    "deleteConfirmTitle": "Ištrinti šį pokalbį?",
+    "deleteConfirmContent": "Šio veiksmo anuliuoti negalima.",
+    "compareWeb": "Palyginkite atsakymą iš interneto",
+    "improveWithXXX": "Gaukite protingesnį atsakymą iš <b>Bot</b>",
+    "improveWithXXX2": "Gaukite išsamų atsakymą iš <b>Bot</b>",
+    "compareWithXXX": "Klauskite <b>Boto</b>",
+    "improveWithSearch": "Gaukite žiniatinklio atsakymą iš „Google“.",
+    "improveWithBoth": "Tvarkykite „Google“ atsakymus naudodami GPT-4",
+    "answerWithoutSearching": "Klauskite originalaus <b>Boto</b>",
+    "screenshot": "Ekrano kopija",
+    "upload": "Įkelti",
+    "uploadFile": "Įkelti failus",
+    "siderUploadFile": "Įkelkite failus PDF, DOC, XLSX, CSV, JPG, JSON ir kitais formatais, po vieną failą, iki 100MB dydžio vienam failui.",
+    "addImage": "Pridėti vaizdą",
+    "welcomeQues": [
+      {
+        "title": "🤔 Paaiškinkite sudėtingą sąvoką",
+        "ques": "Papasakokite man ką nors apie Didįjį sprogimą, kad galėčiau tai paaiškinti savo 5 metų vaikui"
+      },
+      {
+        "title": "🧠 Kurkite neregėtas idėjas",
+        "ques": "Pateikite man 10 dovanų idėjų mano draugo gimtadienio proga"
+      },
+      {
+        "title": "💭 Iškart gaukite patrauklius pavadinimus",
+        "ques": "Sukurkite penkis patrauklius pavadinimus mano rašymui apie ChatGPT naudojimo atvejį"
+      },
+      {
+        "title": "",
+        "ques": "Ar galite pasiūlyti geriausius lankytinus objektus ir vietinius restoranus Paryžiuje?"
+      }
+    ],
+    "textSelectedTip": "Tekstas iš jūsų pasirinkimo",
+    "ocrTextTip": "{{name}} Rezultatas",
+    "translateTip": "Išversti rezultatą",
+    "textSelectedSystemMsg": "Ką norėtumėte daryti su tekstu?",
+    "welcomeSystemMsg": "Sveiki! Kaip aš galiu jums padėti šiandien?",
+    "welcomeMsg": "Kaip galiu jums padėti šiandien?",
+    "chatActionTranslate": "Išversti į {{lang}}",
+    "addAPrompt": "Pridėti raginimą",
+    "search": "Paieška",
+    "continueInChat": "Tęskite pokalbyje",
+    "chatWithVideo": "Pokalbis su vaizdo įrašu",
+    "userStopTip": "Vartotojas atšaukė užklausą.",
+    "noChatHistory": "Dar nėra istorijos.",
+    "noSearchHistory": "Nieko nerasta.",
+    "webAccessModalTitle": "{{APP_NAME}} įgalina ChatGPT-3.5 ir GPT-4 pasiekti žiniatinklį!",
+    "webAccessModalContent": "„ChatGPT“ duomenys nėra realiuoju laiku. {{APP_NAME}} sujungia „ChatGPT“ intelektualumą su žiniatinklio informacija realiuoju laiku, todėl GPT gali efektyviau tvarkyti su informacija susijusius klausimus realiuoju laiku. Atnaujinkite, kad įgytumėte šią funkciją, ir daugiau nesijaudinkite dėl pasenusios informacijos!",
+    "readDoc": "Skaityti dokumentus",
+    "readDocFail": "Nepavyko skaityti dokumentų"
+  },
+  "sidebarComposePanel": {
+    "compose": "Sukurti",
+    "reply": "Atsakyti",
+    "writePlaceholder": "Tema, kurią norite sukurti",
+    "replyPlaceholder1": "Originalus tekstas, į kurį norite atsakyti",
+    "replyPlaceholder2": "Bendras jūsų atsakymo į aukščiau pateiktą tekstą turinys",
+    "submitShortcut": "Paspauskite {{shortcut}}, kad sukurtumėte juodraštį",
+    "generate": "Sugeneruoti juodraštį",
+    "format": "Formatas",
+    "email": "El. paštas",
+    "idea": "Idėja",
+    "outline": "Kontūras",
+    "essay": "Esė",
+    "paragraph": "Pastraipa",
+    "blog": "Tinklaraščio straipsnis",
+    "ads": "Rinkodaros skelbimai",
+    "twitter": "Twitter",
+    "comment": "komentuoti",
+    "message": "Pranešimas",
+    "tone": "Tonas",
+    "professional": "Profesionalus",
+    "formal": "Oficialus",
+    "casual": "Atsitiktinis",
+    "enthusiastic": "Entuziastingas",
+    "informational": "Informacinis",
+    "funny": "Juokinga",
+    "length": "Ilgis",
+    "short": "Trumpas",
+    "medium": "Vidutinis",
+    "long": "Ilgai",
+    "preview": "Peržiūra",
+    "regenerate": "Regeneruoti",
+    "addToSite": "Pridėti prie svetainės",
+    "addToSiteTip": "Užveskite pelės žymeklį į norimą įvesties laukelį ir spustelėkite „{{name}}“, kad įterptumėte"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Ištaisyti klaidą",
+    "retry": "Bandykite dar kartą",
+    "inputPlaceholder": "Įsitikinkite, kad jūsų anglų kalbos rašymas yra be klaidų. Įklijuokite tekstą arba pradėkite vesti tekstą toliau, kad patikrintumėte, ar nėra gramatikos, rašybos ir skyrybos klaidų.",
+    "checking": "Tikrinama",
+    "checkFailed": "Nepavyko patikrinti",
+    "accept": "Priimti",
+    "ignore": "Ignoruoti",
+    "continueImproving": "Tęsti tobulėjimą",
+    "improveGuideText": "Spustelėkite čia, kad gautumėte patobulintą tekstą ir priežastį!",
+    "improvedText": "Patobulintas tekstas:",
+    "reasonForChanges": "Pakeitimų priežastis:"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Automatiškai aptikti",
+    "textAreaPlaceholder": "Įveskite arba įklijuokite tekstą, kurį norite išversti čia",
+    "textAreaLimitHint": "Pasiektas {{wordLimit}} simbolių limitas",
+    "SelectModel": "Pasirinkite modelį",
+    "customization": {
+      "title": "Tinkinimas",
+      "resetBtn": "Nustatyti iš naujo",
+      "Length": "Ilgis",
+      "LengthOpt": {
+        "Brief": "Trumpai",
+        "Concise": "Glaustai",
+        "Standard": "Standartinis",
+        "Expanded": "Išplėstas"
+      },
+      "Tone": "Tonas",
+      "ToneOpt": {
+        "Casual": "Atsitiktinis",
+        "Neutral": "Neutralus",
+        "Formal": "Oficialus",
+        "Authoritative": "Autoritetingas",
+        "Empathetic": "Empatiškas"
+      },
+      "Style": "Stilius",
+      "StyleOpt": {
+        "Literal": "Žodžiu",
+        "DynamicEquivalence": "Dinaminis lygiavertiškumas",
+        "CreativeAdaptation": "Kūrybinis prisitaikymas"
+      },
+      "Complexity": "Sudėtingumas",
+      "ComplexityOpt": {
+        "Layman": "Pasaulietis",
+        "Standard": "Standartinis",
+        "Expert": "Ekspertas"
+      }
+    }
+  },
+  "sidebarSearchPanel": {
+    "history": "Istorija",
+    "searchProgress": {
+      "searchInWeb": "Ieškoti internete",
+      "analyzeSearchResult": "Analizuoti paieškos rezultatus",
+      "generateAnswer": "Generuoti atsakymą",
+      "searchCompleted": "Paieška baigta",
+      "searchCancelled": "Paieška atšaukta"
+    },
+    "answer": "Atsakymas",
+    "currentVisit": "Dabartinis apsilankymas",
+    "feedback": {
+      "stepAnswer": "Generuoti atsakymą",
+      "stepSearch": "Atlikti paiešką",
+      "stepUnderstand": "Suprasti klausimus",
+      "tipTotal": "Iš viso {{count}} užklausų"
+    },
+    "focus": "Fokusas",
+    "newSearch": "Nauja paieška",
+    "searching": "Ieškoma",
+    "searchFromAll": "Ieškoti visame internete",
+    "searchAll": "Ieškoti visur",
+    "searchRange": "Ieškoti diapazone",
+    "searchFromSite": "Ieškoti svetainėje {{domain}}",
+    "sources": "Šaltiniai",
+    "suggestions": "Pasiūlymai",
+    "title": "Paieškos agentas",
+    "viewAll": "Rodyti visus",
+    "defaultSearchSuggesiton": "Kada yra geriausias laikas aplankyti Paryžių?"
+  },
+  "OCRPanel": {
+    "ocrTips": "Iš vaizdo ištraukite tekstą, skaičius ir lygtis",
+    "ocrCost": "Kiekvienas {{name}} kainuos {{num}} vaizdo užklausą",
+    "newOCR": "Naujas {{ocr}}",
+    "noText": "Tekstas neatpažintas",
+    "aiOCRTips": "Dirbtinis intelektas ir OCR puikiai susitvarko su sudėtingomis užduotimis, bet gali padaryti klaidų."
+  },
+  "translator": {
+    "quickActions": "Greitos paieškos",
+    "disableHostFabLabel": "Išjungti šioje svetainėje",
+    "disableFabLabel": "Išjungti visose svetainėse"
+  },
+  "pageTranslation": {
+    "pageTranslation": "Išversti šį puslapį",
+    "showOriginal": "Rodyti originalų tekstą",
+    "transSettings": "Vertimo nustatymai",
+    "source": "Šaltinis",
+    "target": "Tikslas",
+    "autoDetect": "Automatiškai aptikti",
+    "displayStyle": "Rodymo stilius",
+    "displayStyles": [
+      "Nėra",
+      "Pabraukimas",
+      "Silpninti"
+    ],
+    "autoTrans": "Automatinis vertimas",
+    "autoTransEng": "Automatinis vertimas į anglų kalbą",
+    "autoTransSite": "Automatiškai išverskite dabartinę svetainę",
+    "neverTransSite": "Niekada neversti dabartinės svetainės",
+    "transAgain": "Išversti dar kartą"
+  },
+  "tools": {
+    "search": {
+      "name": "Tinklo prieiga",
+      "desc": "Gauti realaus laiko informaciją iš interneto, kai reikia"
+    },
+    "text_to_image": {
+      "name": "Tapytojas",
+      "desc": "Generuoti vaizdus pagal jūsų aprašymą"
+    },
+    "data_analysis": {
+      "name": "Išplėstinė duomenų analizė",
+      "desc": "Spręsti matematikos uždavinius, analizuoti ir vizualizuoti duomenis, kurti ir interpretuoti kodą ir t.t."
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Patinka mūsų plėtinys?</b> Įvertinkite mus penkiomis žvaigždutėmis internetinėje parduotuvėje, kad padėtumėte mums augti",
+    "newInVersion": "Kas naujo {{versionId}} versijoje",
+    "learnToUse": "Sužinokite, kaip naudotis",
+    "logTitles": {
+      "4_10_0": "OpenAI GPT-4o jau čia!",
+      "4_9_0": "Llama 3 jau čia! Kitos kartos Meta pažangiausias atvirojo kodo LLM.",
+      "4_8_0": "„Gemini 1.5 Pro“ - Dabar Prieinamas!",
+      "4_7_0": "In-Chat vaizdo santrauka, subtitrų ištraukimas, Claude 3 Haiku! 🚀",
+      "4_6_0": "Palaikykite Claude 3 šeimą dabar!",
+      "4_5_0": "",
+      "4_4_0": "Visi įrankiai pokalbių ir GPT-4 kontekstinėje juostoje",
+      "4_3_0": "Maksimizuokite savo patirtį su viso ekrano režimu!",
+      "4_2_0": "Efektyvesnė vartotojo sąsajos ir šoninės juostos GPT prieiga",
+      "4_1_0": ""
+    },
+    "logs": {
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Padidėjęs greitis:</b> Gaukite 2x greitesnius atsakymus nei GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Pagerėjęs regėjimas:</b> Žymiai patobulintas vaizdų supratimas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Išplėstos kalbos:</b> Daugiau kalbų, geresnė kokybė ir greitesnis našumas"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Naujas modelis:</b> Dabar palaikoma Llama 3"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Naujas Modelis:</b> Palaikykite „Gemini 1.5 Pro“ dabar"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nauji AI Vaizdo Įrankiai:</b> Prieigą prie AI funkcijų gaukite užvedę pelę ant bet kurio vaizdo"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat santrauka: Gaukite pagrindinius „YouTube“ vaizdo įrašų taškus su „Skaitykite šį puslapį“ pokalbio lange."
+          ]
+        },
+        {
+          "features": [
+            "Paprastas subtitrų ištraukimas: Gaukite subtitrus vienu paspaudimu „YouTube“ ir giliau supraskite."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Dabar galite praturtinti savo pokalbių patirtį."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Teigia turintis \"beveik žmogiškus\" gebėjimus ir gali įveikti GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Subalansuoja intelektą ir greitį, idealus informacijos paieškai ar pardavimų automatizavimui."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Paieškos agento valdiklis:</b> Patirkite paieškos ateitį su dirbtinio intelekto automatizavimu"
+          ]
+        },
+        {
+          "features": [
+            "<b>Vertėjas tinklalapiui:</b> Daugiau skaitytojams draugiškų vertimo rodymo stilių"
+          ]
+        },
+        {
+          "features": [
+            "<b>Naujas nustatymas:</b> Automatiškai atnaujinti paskutinį pokalbį, atidarant šoninę juostą"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Naujas pažangus duomenų analizės įrankis:</b> Kodo interpretatorius efektyviam duomenų tvarkymui ir sudėtingiems skaičiavimams"
+          ]
+        },
+        {
+          "features": [
+            "<b>Naujas tapytojo įrankis:</b> Sukurkite paveikslus akimirksniu pokalbyje"
+          ]
+        },
+        {
+          "features": [
+            "<b>Papildytas kontekstinis meniu:</b> Naudokite GPT-4 kontekstinėje juostoje."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Panardinkite į įtraukiantį, viso ekrano vaizdą"
+          ]
+        },
+        {
+          "features": [
+            "Mėgaukitės visomis šoninės juostos funkcijomis, dabar viso ekrano režime"
+          ]
+        },
+        {
+          "features": [
+            "Sklandžiai perjunkite tarp režimų, kad gautumėte geriausius rezultatus abiem pasauliams"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Atnaujinta sąsaja:</b> Švaresnis ir lengviau naršomas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Sutraukiama naršymo juosta:</b> Užtikrina koncentruotą pokalbių patirtį, išlaikant pagrindines funkcijas lengvai pasiekiamas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Šoninės juostos GPT prieiga:</b> \"ChatGPT Plus\" naudotojams tiesioginė prieiga prie GPT dabar pasiekiama šoninėje juostoje žiniatinklio programos režimu"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) peržiūra! ir AI atsakymas, skirtas „Gmail“.",
+          "features": [
+            "{{SIDERVISION}} maitina GPT-4V",
+            "Geresnis vaizdų supratimas",
+            "Greitai suvokkite el. pašto ketinimus",
+            "Pasirinkite iš įvairių tonų ir asmenybių",
+            "Lengvai rinkitės atsakymų pasiūlymus"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo and Chat tinklalapis!",
+          "features": [
+            "Palaikykite GPT-4 Turbo ir GPT-3.5 Turbo",
+            "Išversti visą tinklalapį",
+            "Pokalbių tinklalapis šoninėje juostoje",
+            "Pokalbis PDF šoninėje juostoje"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Vertimo valdiklis",
+          "features": [
+            "Tinkinkite vertimą naudodami specialų vertimo valdiklį",
+            "Pagerinkite „ChatGPT“ atsakymus „Google“, „Bing“, „Baidu“ ir kt"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} tapo protingesnis",
+          "features": [
+            "{{4+VISION}}",
+            "1 spustelėjimas atsako į tą patį klausimą su skirtingais robotais"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider gramatikos valdiklis",
+          "features": [
+            "Patikrinkite gramatikos klaidas",
+            "Ištaisykite gramatikos klaidas",
+            "Pagerinkite rašymą ne tik gramatiką"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} – „ChatGPT“ šoninė juosta su „Vision“.",
+          "features": [
+            "Ištraukite tekstą iš paveikslėlio",
+            "Užduokite bet kokį klausimą apie vaizdą",
+            "3 būdai nusiųsti vaizdą į {{SIDERVISION}} <div><ol><li>Padarykite ekrano kopiją</li><li>Nuvilkite vaizdą į pokalbių langą</li><li>Įkelkite vaizdą </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Ištraukite tekstą iš paveikslėlio"
+          ]
+        },
+        {
+          "features": [
+            "Ištraukite tekstą iš paveikslėlio"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Naujas kainodaros planas su 5 kartus daugiau GPT-4 užklausų",
+          "features": [
+            "Puiki naujiena! Mūsų atnaujinta kainodara dabar suteikia dar daugiau prieigos prie GPT-4 ir Claude 2 užklausų.",
+            "Jei jau esate aukščiausios kokybės naudotojas, būsite automatiškai atnaujintas. Be to, turime naują „Neriboto“ planą, skirtą visiems patyrusiems vartotojams!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Daugiau boto!",
+          "features": [
+            "Be ChatGPT ir Claude, Sider dabar palaiko Bardą!"
+          ]
+        },
+        {
+          "title": "OCR: ištraukite tekstą iš bet kurio vaizdo ir nusiųskite jį į ChatGPT",
+          "features": [
+            "Atpažinkite daugiau nei 10 pagrindinių kalbų",
+            "Atpažinti ranka rašytą anglų kalba",
+            "Tekste atpažinkite <b>matematikos lygtis</b>"
+          ]
+        },
+        {
+          "title": "Tobulinti tapytoją",
+          "features": [
+            "Pakeiskite visą foną",
+            "Pašalinti pasirinktą sritį"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Daugiau pokalbių robotų</b>: dabar palaikoma Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Grupinis pokalbis</b>: palyginkite atsakymus visuose pokalbių robotuose!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Paminėjimas</b>: naudokite „@“, kad be vargo paminėtumėte ir bendrautumėte su bet kuriuo pokalbių robotu pokalbyje!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Spartusis raginimas</b>: tiesiog įveskite „/“ ir pirmyn!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Paprastas dizainas</b>: padarykite dizainą paprastą ir lengvai naršoma"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Patobulintas eilučių tvarkytuvas",
+          "features": [
+            "Skaitymo kontekstinis meniu",
+            "Kontekstinio meniu rašymas"
+          ]
+        },
+        {
+          "title": "AI vaizdo redaktorius",
+          "features": [
+            "Pašalinkite foną iš bet kokių vaizdų",
+            "Pašalinkite tekstą iš bet kokių vaizdų"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Skaitymo asistentas: naudokite dirbtinį intelektą, kad skaitydami tinklalapius greitai suprastumėte",
+        "Rašymo asistentas: greitai generuokite turinį naudodami AI žiniatinklio įvesties laukelyje"
+      ],
+      "2_7_0": [
+        "Nupieškite paveikslėlį iš teksto",
+        "Nupieškite paveikslėlį iš pamatinio paveikslėlio"
+      ],
+      "2_6_0": [
+        "„Sider“ palaiko fiksuotą šoninę juostą – galite kalbėtis tarp visų skirtukų neperdengdami jokio turinio <br /> (pasiekiama „Chrome 114“ ar naujesnėje versijoje)"
+      ],
+      "2_5_0": [
+        "„YouTube“ santrauka! Peržiūrėkite 1 valandos trukmės „YouTube“ vaizdo įrašą per 1 minutę",
+        "Palyginkite žmonių ir AI pateiktus atsakymus klausimų ir atsakymų svetainėse, pvz., Quora, StackOverflow ir Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Išmanioji žiniatinklio prieiga</b>: atsižvelgdama į jūsų užklausą, Al nuspręs, ar jai reikia prisijungti prie žiniatinklio.",
+        "Stabilumo gerinimas"
+      ],
+      "2_3_0": [
+        "Palaikykite naršymą ir papildinius „Plus“ vartotojams!",
+        "„ChatGPT“ su interneto prieiga visiems!"
+      ],
+      "2_2_0": [
+        "Sukurkite bet kokį pranešimą",
+        "Atsakyti el. laišką, tviterį, komentuoti ir pan"
+      ],
+      "2_1_0": [
+        "Greitos peržvalgos nuoroda",
+        "Pakeiskite greitosios peržiūros lango dydį",
+        "Klaidų pataisymai ir kiti UX patobulinimai"
+      ],
+      "2_0_0": [
+        "Palaikykite <b>GPT-4 </b>visiems vartotojams!",
+        "Pakvieskite draugus ir gaukite <b>GPT-4</b> užklausų jums abiem!",
+        "Klaidų pataisymai ir kiti UX patobulinimai"
+      ],
+      "1_1_0": [
+        "Visas pokalbis <b>naujame skirtuke</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> kartu!",
+        "Klaidų pataisymai"
+      ],
+      "1_0_13": [
+        "Uždėję klausimus tęskite pokalbį",
+        "„Plus“ naudotojams perjunkite tarp GPT-4 ir GPT-3.5",
+        "Lengvai pasiekite ir ieškokite pokalbių istorijoje"
+      ],
+      "1_0_12": [
+        "Sinchronizuoti plėtinių nustatymus visuose kompiuteriuose",
+        "Pasiekite raginimus iš skirtingų nešiojamųjų kompiuterių",
+        "Išsaugokite pokalbius būsimam naudojimui",
+        "Bendrinkite pokalbius naudodami nuorodą"
+      ],
+      "1_0_11": [
+        "Greitai pasiekite veiksmus per iššokantįjį langą neatidarę šoninės juostos.",
+        "Pridėkite papildomų kalbų palaikymą.",
+        "Naudodami vertimo funkciją išsaugokite vartotojo kalbos pasirinkimą.",
+        "Išspręskite nuorodų konfliktus tokiose platformose kaip „GitHub“ ir kitose."
+      ],
+      "1_0_10": [
+        "Palaikykite daugiau nei 50 kalbų dabar!"
+      ],
+      "1_0_8": [
+        "Palaikykite GPT-4 Plus vartotojams! Patikrinkite nustatymų puslapį!"
+      ],
+      "1_0_7": [
+        "Prisiminkite paskutinį kartą naudotą raginimą",
+        "Optimizuokite chatGPT skydelio padėtį paieškos puslapiuose",
+        "Pridėkite parinktį įdėti šoninės juostos puslapio piktogramą kairėje pusėje",
+        "Optimizuokite pakuotės dydį",
+        "Pridėti tamsųjį režimą",
+        "Palaikykite savo API URL tarpinį serverį"
+      ],
+      "1_0_6": [
+        "Patobulinkite suvestinės funkciją Youtube puslapyje"
+      ],
+      "1_0_5": [
+        "Prisiminkite šoninės juostos piktogramos vietą",
+        "Pagerinkite sparčiuosius klavišus",
+        "Išsaugokite raginimo šablonus tiesiai iš šoninės juostos"
+      ],
+      "1_0_4": [
+        "Išskleidžiamajame sąraše pertvarkykite ragintus elementus",
+        "Archyvuokite raginimo elementus, kurių nenaudosite",
+        "Palaikykite atsakymą daugiau nei 50 kalbų"
+      ],
+      "1_0_3": [
+        "CMD / Ctrl + Enter, kad greitai atliktumėte „Pateikti“",
+        "Galimybė paslėpti skydelį paieškos rezultatų puslapyje",
+        "Palaikykite ESC, kad paslėptumėte šoninę juostą",
+        "Pagalba apibendrina ilgą straipsnį"
+      ],
+      "1_0_2": [
+        "Pridėkite sustabdymo mygtuką, kad sustabdytumėte atsako generavimą",
+        "Pakeiskite sutraukimo vietą"
+      ],
+      "1_0_1": [
+        "Patobulinkite suvestinės funkciją Youtube puslapyje",
+        "Ištaisykite kai kurias klaidas, susijusias su kopijavimu / įklijavimu ir spausdinimu"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktyvuokite pokalbių įrankius, kad atrakintumėte galingas galimybes.",
+    "content2": [
+      "Tyrinėkite pasaulinį tinklą be jokių trukdžių.",
+      "Paverkite savo idėjas į nuostabius vaizdus.",
+      "Giliai panardinkite į duomenis su ekspertų analize."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Balsuokite už produktų medžioklę",
+    "sidebar2Banner1": "Balsuokite už mus <b>Produktų medžioklėje</b> DABAR, kad paskleistumėte žinią.",
+    "sidebar2ModalTitle": "✨ Šoninės juostos 2.0 santrauka",
+    "sidebar2ModalDesc": "• Pokalbių skirtukas\n  • Greita greitų užklausų paieška\n  • Paskyra, skirta sinchronizuoti raginimus\n  • Išsaugokite ir bendrinkite pokalbius\n  • Palaikykite daugiau kalbų\n  • Palaiko GPT-4",
+    "ios1Banner1": "Balsuokite už ChitChat – ChatGPT iOS programėlę 🎉",
+    "ios1Banner2": "Pradėkime viską su trenksmu! 😄",
+    "ios1ModalTitle": "✨ Naujiena ChitChat iOS programėlėje",
+    "ios1ModalDesc": "• Gaukite atsakymus iš ChatGPT 3.5 ir 4\n• Botų palaikymo komanda jums padeda vienoje vietoje\n  • Paverskite savo PDF į pokalbių robotą"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}}, skirta „Mac“.",
+    "macContent": "Džiaugiamės galėdami pranešti, kad „Sider“ dabar pasiekiama „Mac“ vartotojams! Mėgaukitės sklandžia ir efektyvia patirtimi, pritaikyta tik „Mac“, kartu su visomis galingomis funkcijomis, kurias mėgstate iš mūsų žiniatinklio versijos.",
+    "macContent2": "„{{APP_NAME}}“ dabar pasiekiama „Mac“!",
+    "macDownload": "Parsisiųsti dabar!",
+    "phTitle": "Mėgstate naudotis mūsų plėtiniu?",
+    "phContent": "Skirkite šiek tiek laiko ir palaikykite mus už <i>Produktų medžioklę</i> – tai greita, paprasta ir mums labai padeda!",
+    "phContent2": "Balsuokite už mus <b>Produktų medžioklėje</b>",
+    "phVote": "Balsuok Dabar!",
+    "phTitle2": "Paleidome Sider 3.X versijas <i>Produktų medžioklėje</i>.",
+    "phFeatures1": "<b>ChatGPT valdikliai</b>: rašykite, ištraukite tekstą iš vaizdų, patikrinkite gramatiką ir verskite – viskas vienoje vietoje.",
+    "phFeatures2": "<b>Sider Vision</b>: kalbėkitės apie vaizdus naudodami GPT-4 Vision ir pakelkite AI pokalbį į kitą lygį.",
+    "phFeatures3": "<b>Grupinis AI pokalbis</b>: bendraukite su ChatGPT, GPT-4, Claude ir Bard viename novatoriškame grupės pokalbyje.",
+    "phFeatures4": "<b>Mes visi esame ausys</b>: jūsų atsiliepimai formuoja Sider – pasidalykite mintimis, mes klausome!",
+    "phVote2": "Balsuokite už <i>Produktų medžioklę</i>",
+    "phVoteTips": "<b>Svarbiausias šiandienos balsavimas</b> – palaikykite mus dabar!"
+  },
+  "searchTool": {
+    "questionMark": "Suaktyvinkite „ChatGPT“ pridėdami klaustuką po užklausos",
+    "askForQuery": "Dėl šios užklausos teiraukitės ChatGPT",
+    "fiveStart": "Ar patinka šis plėtinys? Suteikite mums 5 žvaigždučių įvertinimą {{store}}",
+    "loginAndCloudflareCheck": "Prisijunkite ir atlikite „Cloudflare“ patikrą adresu {{web}}",
+    "braveTrouble": "Vis dar neveikia? Stebėti {{url}}",
+    "cloudflareCheck": "„OpenAI“ kartkartėmis reikalauja praeiti saugos patikrą. Jei tai kartojasi, pakeiskite AI teikėją į OpenAI API <i>plėtinio parinktyse</i>.",
+    "failedResponse": "Nepavyko įkelti atsakymo iš „ChatGPT“:",
+    "whenToAskTips": "Kiekviena paieška sunaudoja vieną greitą teksto užklausą. Spustelėkite čia, kad nustatytumėte, kada paklausti „ChatGPT“.",
+    "waitResponse": "Laukiama ChatGPT atsakymo..."
+  },
+  "sidepanel": {
+    "title": "Sider palaiko fiksuotą šoninę juostą",
+    "tip": "Patarimas: tinkamai sureguliuokite šoninio skydelio plotį, kad galėtumėte mėgautis geresne patirtimi.",
+    "benefit1": "Jūsų Sider šoninė juosta <b>niekada neišnyks</b>, jei pereisite į naują puslapį.",
+    "benefit2": "Galite kalbėtis tarp visų skirtukų <b>neperdengdami jokio turinio</b>.",
+    "benefit3": "Galima tik naudojant <b>114 ar naujesnės versijos „Google Chrome“</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Kaina 1 greitam teksto užklausimui ir 1 skaitymo užklausai",
+    "videoSummaryCostLogin": "Nemokamas bandomasis laikotarpis {{times}} kartų, kiekvieną kartą naudojant {{num}} greitas teksto užklausas",
+    "videoSummaryBtn": "Apibendrinkite vaizdo įrašą",
+    "videoSummaryMakeFullBtn": "Padaryti visą santrauką",
+    "keyMomentsCollapse": "Suskleisti",
+    "keyMomentsClickExpand": "Spustelėkite, norėdami išskleisti",
+    "originalSubtitles": "Originalūs subtitrai",
+    "expandAll": "Išskleisti viską",
+    "loginToSummary": "Prisijunkite prie suvestinės",
+    "loginToAsk": "Prisijunkite norėdami Klausti",
+    "noTranscriptTip": "{{APP_NAME}} negali apibendrinti vaizdo įrašų be subtitrų.",
+    "videoSummaryText": "Vaizdo santrauka",
+    "summary": "Santrauka",
+    "subtitle": "Subtitrai",
+    "subtitles": "Subtitrai",
+    "responseLanguage": "Atsakymo kalba",
+    "bilingual": "Dvikalbis",
+    "subtitleFailed": "Subtitrai nepavyko įkelti",
+    "videoTooLang": "Santraukai, vaizdo įrašai turi būti trumpesni nei 10 valandų.",
+    "displayTranslation": "Rodyti vertimą",
+    "noSubtitleTips": "Santraukos šiuo metu galimos tik su subtitrais turinčiais vaizdo įrašais.",
+    "insertToComment": "Įterpti į komentarą",
+    "generatedBy": "Sugeneruota naudojant {{name}}",
+    "shownotes": "Pagrindiniai momentai",
+    "freeLimitTips": "Nemokamas bandomasis laikotarpis išnaudotas. Naujovinkite dabar, kad toliau naudotumėte vaizdo įrašo suvestinės funkciją.",
+    "askQuestionBtn": "Užduoti Klausimą",
+    "noQuestionTip": "{{APP_NAME}} negali pašalinti puslapio problemos."
+  },
+  "quickActions": {
+    "requireSignin": "Reikalingas prisijungimas",
+    "siginHint": "Jei norite pasiekti šią funkciją, prisijunkite.",
+    "askAI": "Paklauskite {{name}}",
+    "defaultPlaceholder": "Paklauskite {{APP_NAME}} bet ko",
+    "defaultPlaceholder2": "Paklauskite {{APP_NAME}} naudodami anksčiau pateiktą turinį",
+    "managePrompts": "Valdyti užduotis",
+    "editSelectionGroup": "Redaguoti arba peržiūrėti pasirinkimą",
+    "selectionGroup": "Generuokite iš pasirinkimo",
+    "draftGroup": "Juodraštis su {{name}}",
+    "AIGenerating": "{{name}} generuoja...",
+    "pressToStop": "Norėdami sustabdyti, paspauskite {{name}}",
+    "pressToClose": "Paspauskite {{name}}, kad uždarytumėte",
+    "disableOnce": "Slėpti iki kito apsilankymo",
+    "disableSite": "Išjungti šioje svetainėje",
+    "disableGlobal": "Išjungti visame pasaulyje",
+    "continueImproving": "Tęsti tobulėjimą"
+  },
+  "msg": {
+    "supportedFileFormat": "Palaikomi failų formatai yra {{formats}}",
+    "maxFileSize": "Didžiausias failo dydis yra {{size}}",
+    "maxSize": "Maksimalus dydis: {{num}}",
+    "fetchFailed": "Nuotrauka negalėjo būti gauta. Ją galite atsisiųsti ir įkelti rankiniu būdu.",
+    "enterAPIKey": "Įveskite savo OpenAI API raktą",
+    "selectModel": "Pasirinkite tinkamą modelį",
+    "changeSaved": "Pakeitimai išsaugoti",
+    "fiveStart": "Suteik mums 5 žvaigždutes",
+    "pleaseContactUs": "<a>Susisiekite su mumis</a>.",
+    "inviteTitle": "Kvietimas ir apdovanojimai",
+    "inviteEarn": "Uždirbkite <mx>{{num}} užklausų</mx> jums ir savo draugams. <b>Kuo daugiau nurodysite, tuo daugiau uždirbsite</b>.",
+    "inviteStep1": "Pakvieskite draugus naudodami kvietimo nuorodą",
+    "inviteStep2": "Jūsų draugai užsiregistruoja",
+    "inviteStep3": "Jie įdiegia plėtinį ir prisijungimą. Uždirbti apdovanojimai!",
+    "checkInvitation": "Patikrinkite kvietimų įrašus",
+    "inviteFriendsEarn": "Pakvieskite draugų ir užsidirbkite GPT-4 užklausų",
+    "inviteFriends": "Pakviesti draugus",
+    "inviteRewardsRecord": "Apdovanojimų įrašai:",
+    "invitedRewardObtained": "Gauti apdovanojimai!",
+    "invitedWelcome": "Sveiki! GPT užklausos pridėtos prie jūsų paskyros!",
+    "invitedRewardTips": "Jūsų draugas kviečia jus ir kiekvienas iš jūsų turite <mx>{{num}} užklausų</mx>",
+    "inviteFriendJoin_one": "{{count}} draugas prisijungė",
+    "inviteFriendJoin_other": "{{count}} draugai prisijungė",
+    "getMoreGPT4": "Gaukite daugiau GPT-4 kvotos",
+    "errSiderApiLimitDevice": "Norėdami naudotis, prisijunkite.",
+    "errSiderApiLimitLogin": "Jūs išnaudojote visas šiandienines nemokamas užklausas. Atnaujinkite narystę arba pakvieskite draugų, kad gautumėte daugiau, arba palaukite iki rytojaus užklausų atstatymo.",
+    "errSiderApiLimitPremium": "Išnaudotos šio mėnesio greitosios teksto užklausos. Perjunkite į išplėstines teksto užklausas, palaukite, kol kitą mėnesį bus nustatyta iš naujo (prenumeratos data) arba atnaujinkite, kad gautumėte daugiau.",
+    "errSiderApiImageLimit": "Išnaudojote visas vaizdo užklausas ir atnaujinkite, kad galėtumėte toliau naudotis šia funkcija.",
+    "errSiderApiSummaryVideoLimit": "Išnaudojote visas savo užklausas. Atnaujinkite arba pakvieskite draugus, kad gautumėte daugiau.",
+    "errSiderApiOcrLimit": "Išnaudojote visas vaizdų užklausas. Jei norite toliau naudotis šia funkcija, atnaujinkite.",
+    "errSiderApiImgLimitPremiumUltra": "Pasiekėte maksimalų vaizdo užklausų skaičių. Palaukite kito nustatymo iš naujo, kad galėtumėte toliau naudoti.",
+    "errSiderPremiumRequired": "Ši funkcija yra išskirtinai prieinama aukščiausios kokybės vartotojams. Naujovinkite dabar, kad atrakintumėte šią funkciją.",
+    "errSiderHighTrafficError": "Dėl didelio srauto bandykite dar kartą vėliau arba naujovinkite į aukščiausios kokybės paskyrą, kad galėtumėte greičiau pasiekti.",
+    "errSiderHighTrafficTip": "Apsvarstykite galimybę <a>naujovinti į aukščiausios kokybės paskyrą</a>, kad gautumėte stabilią prieigą ir palaikytumėte plėtrą.",
+    "errSiderDeviceBinded": "Norėdami naudotis, prisijunkite.",
+    "errSiderApiHighLoad": "OpenAI serveris šiuo metu užimtas. Pabandykite dar kartą vėliau.",
+    "errSiderGPT4HighLoad": "OpenAI serveris šiuo metu užimtas. Pabandykite dar kartą vėliau.",
+    "errSiderOpenaiFault": "Openai serveris užimtas. Perjunkite į {{model}} per OpenAI gedimą.",
+    "errServiceUnavailable": "„Openai“ serveris užimtas, bandykite dar kartą vėliau arba perjunkite į „Sider“ API ir naudokite {{model}} per OpenAI gedimą.",
+    "errSiderGPT4LimitDevice": "Pirmiausia <b>prisijunkite</b> ir <amb>pakvieskite draugus</amb> arba <ta>naujovinkite į aukščiausios klasės</ta>, kad gautumėte daugiau išplėstinio teksto kvotos.",
+    "errSiderGPT4LimitLogin": "Naujovinkite arba pakvieskite draugus atrakinti daugiau išplėstinio teksto užklausų, kad gautumėte įžvalgesnių atsakymų.",
+    "errSiderGPT4LimitPremium": "Išnaudotos šio mėnesio išplėstinės teksto užklausos. Perjunkite į greitąsias teksto užklausas, palaukite, kol kitą mėnesį bus nustatyta iš naujo (prenumeratos data) arba atnaujinkite, kad gautumėte daugiau.",
+    "errSiderNeedLogin": "Norėdami naudotis, prisijunkite.",
+    "errGeminiPro": "{{GEMINI}} klaida, prašome bandyti vėliau.",
+    "goToSignIn": "Eikite prisijungti",
+    "errSiderTimeout": "Baigėsi užklausos skirtasis laikas. Prašau, pabandykite dar kartą.",
+    "errSiderProcessing": "Vienu metu tik viena žinutė. Prieš siųsdami kitą pranešimą, leiskite užbaigti bet kokį kitą atsakymą arba šiek tiek palaukite.",
+    "errTrySiderAPI": "Perjunkite į <i>ChatGPT šoninės juostos API</i>, kad gautumėte stabilią prieigą (visiems)",
+    "errTrySiderAPI2": "ARBA naudokite savo API raktą <a>nustatymų puslapyje</a> (kūrėjams)",
+    "errChatGPTAuth": "Prašome <m>spustelėti nuorodą, kad prisijungtumėte </m>prie savo ChatGPT tinklalapio ir mes padėsime jums ją prisegti. Tada galėsite jį naudoti šoninėje juostoje.",
+    "errChatGPTAuthTipTitle": "Jei tai neveikia:",
+    "errChatGPTFailToFetch": "Nepavyko gauti atsakymo iš „ChatGPT“.",
+    "errOpenaiFailToFetch": "Nepavyko gauti atsakymo iš OpenAI naudojant API raktą.",
+    "errSiderBasicTextLimit": "Pasiekėte pagrindinio teksto užklausų greičio limitą. Šiuo metu kas {{N1}} min. galioja {{NUM2}} pranešimų apribojimas. Arba galite naudoti išplėstinę teksto užklausą ir grįžti vėliau.",
+    "errSiderAdvancedTextLimit": "Pasiekėte išplėstinio teksto užklausų greičio limitą. Šiuo metu kas {{N1}} min. galioja {{NUM2}} pranešimų apribojimas. Arba galite naudoti pagrindinę teksto užklausą ir grįžti vėliau.",
+    "loginAndCloudflareCheck": "Perjunkite į <a>Šoninės juostos API</a>, kad gautumėte stabilią prieigą ARBA prisijunkite ir išlaikytumėte „Cloudflare“ patikrą adresu <i>chat.openai.com</i>",
+    "invalidApiKey": "API raktas neteisingas, gaukite kitą.",
+    "getApiKeyGuide": "Kad jis veiktų, jums reikia OpenAI API rakto. Vadovaukitės mūsų vadovu, kad gautumėte API raktą.",
+    "thankForFeedback": "Ačiū. Forma sėkmingai pateikta. Netrukus su jumis susisieksime.",
+    "writeSomething": "Prašau ką nors parašyti.",
+    "enterEmail": "Įveskite el. pašto adresą, kad gautumėte naujienas apie problemą.",
+    "emailRequired": "Būtinas el.",
+    "promptNameRequired": "Būtina nurodyti pavadinimą.",
+    "titleRequired": "Pavadinimas būtinas.",
+    "nameYourPrompt": "Pavadinkite raginimą",
+    "nameYourTitle": "Pavadinkite savo pokalbį",
+    "promptTplRequired": "Būtinas greitas turinys.",
+    "deletePromptWarn": "Ar norite ištrinti šį raginimą?",
+    "restorePromptWarn": "Ar norite atkurti šį raginimo šabloną?",
+    "notValidEmail": "netinkamas el",
+    "pleaseSignin": "Prašome prisijungti.",
+    "signinTips": "Prisijunkite, kad sinchronizuotumėte raginimus ir nustatymus",
+    "signinAward": "Prisijunkite, kad gautumėte {{num}} <span>nemokamus</span> užklausas per dieną",
+    "signinAward2": "Užklausos buvo išnaudotos neprisijungusiam vartotojui. Galite prisijungti, kad gautumėte <b>{{num}} nemokamų užklausų per dieną</b>.",
+    "signinAward3": "Prisijunkite, kad gautumėte daugiau užklausų per dieną",
+    "signinAward4": "Išvykite į magišką Al kelionę su savo naršykle ir gaukite {{num}} <span>NEMOKAMUS</span> užklausimus kiekvieną dieną",
+    "chatgptTabGuardTips": "Palikite šį skirtuką atidarytą, dabar galite grįžti į {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Kažkas negerai naudojant „ChatGPT“. Jungiamasi iš naujo, palaukite...",
+    "chatgptTabGuardRefreshingTips1": "Kažkas negerai naudojant „ChatGPT“.",
+    "chatgptTabGuardRefreshingTips2": "Jungiamasi iš naujo, palaukite...",
+    "chatgptTabGuardSetupSuccessTips": "Pataisyta, bandykite dar kartą",
+    "switchToSiderApiToContinue": "Ši funkcija šiuo metu palaiko tik {{APP_NAME}} API režimą. Jei norite tęsti, <a>perjunkite į {{APP_NAME}} API</a>.",
+    "switchRequired": "Reikalingas jungiklis",
+    "signInRequired": "Reikalingas prisijungimas",
+    "useUpUpgrade": "Jūsų kvota išnaudota, atnaujinkite, kad gautumėte daugiau kvotos.",
+    "webSearchSignIn": "Jei norite naudotis šia funkcija, prisijunkite.",
+    "featureLimit": "Funkcijų apribojimas",
+    "featureLimitTip": "Atnaujinkite, kad galėtumėte naudoti Claude and Bard.",
+    "featureUnavailableOnPage": "Funkcija neprieinama",
+    "featureBrowserLimit": "Naršyklės apribojimai neleidžia šiai funkcijai veikti šiame puslapyje. Prašome pabandyti kitą svetainę.",
+    "quotaModelContent": "Pasiektas jūsų GPT-4 / Claude-2 užklausų limitas. Naujovinkite į „Premium“ planą, kad gautumėte daugiau prieigos, arba pakvieskite draugų, kad gautumėte nemokamų papildomų užklausų.",
+    "signinFeature": "Prašome prisijungti, kad galėtumėte naudotis šia funkcija",
+    "dragImgTips": "Spustelėkite, kad įkeltumėte, arba vilkite nuotrauką čia",
+    "reEnableInSettings": "Galite iš naujo įgalinti <a>Nustatymuose</a>",
+    "switchBarTip": "Išplėskite šoninį skydelį, kad prisegtumėte naršymo juostą.",
+    "upgradeSupport": "Naujovinkite į aukščiausios kokybės planą, kad palaikytumėte mus",
+    "upgradeSupport2": "Atnaujinkite, kad gautumėte daugiau funkcijų",
+    "imageSizeLimit": "Vaizdo limitas",
+    "fileSizeLimit": "Failas per didelis",
+    "imageSizeLimitTip": "Įsitikinkite, kad vaizdas yra mažesnis nei 10 MB, o jo plotis arba aukštis neviršija 4096 pikselių, tada bandykite dar kartą.",
+    "fileSizeLimitTip": "Failas viršija 100MB įkėlimo limitą. Prašome sumažinti failo dydį ir bandyti vėl.",
+    "errOpenAIFilter": "Atsakymas buvo filtruojamas dėl raginimo suaktyvinti OpenAI turinio valdymo politiką. Pakeiskite raginimą ir bandykite dar kartą.",
+    "unreadableMsg": "Šiame puslapyje nepavyksta rasti pagrindinio turinio. Išbandykite kitą puslapį.",
+    "unreadableTitle": "Trūksta pagrindinio turinio",
+    "noSubtitleMsg": "Vaizdo įraše nėra subtitrų ir jo negalima santraukti.",
+    "noSubtitleTitle": "Santraukai reikalingi subtitrai",
+    "fileLimit": "Norint apdoroti šį failą, įjunkite Išplėstinį duomenų analizės įrankį. Už kiekvieną naudojimą reikia 1 Išplėstinio teksto užklausos. Ar norite jį įjungti ir tęsti?",
+    "openLastConversationTitle": "Atidaryti paskutinę pokalbį?",
+    "openLastConversationContent": "Dabar galime nustatyti, ar šoninė juosta atkurs paskutinį pokalbį kiekvieną kartą, kai ji paleidžiama.",
+    "openLastConversationCancel": "Supratau",
+    "openLastConversationOk": "Eiti į nustatymus"
+  },
+  "options": {
+    "shortcut": {
+      "tips": "Įveskite trumpinį"
+    },
+    "theme": {
+      "auto": "automatinis",
+      "light": "šviesus režimas",
+      "dark": "tamsus režimas"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Visada",
+        "desc": "Paklauskite „ChatGPT“ kiekvienoje paieškoje"
+      },
+      "questionMark": {
+        "title": "Klaustukas",
+        "desc": "Paklauskite „ChatGPT“, jei raktiniai žodžiai baigiasi klaustuku (?)"
+      },
+      "manually": {
+        "title": "Rankiniu būdu",
+        "desc": "Klauskite „ChatGPT“ tik tada, kai spustelėsite mygtuką"
+      }
+    },
+    "sidebarLocation": {
+      "left": "kairė pusė",
+      "right": "dešinioji pusė"
+    },
+    "sidebarMode": {
+      "sidepanel": "Fiksuota šoninė juosta",
+      "inpage": "Puslapio šoninė juosta"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Perjungiant skirtukus, \"Sider\" visada liks pritvirtintas dešinėje naršyklės pusėje.",
+      "inpage": "Perjungiant skirtukus, \"Sider\" neliks rodomas; turite iš naujo atidaryti šoninę juostą naujame puslapyje."
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Paklauskite „ChatGPT“.",
+        "template": "Ar galite ką nors pasakyti apie {{keywords}}? Jei įmanoma, gal galite duoti keletą nuorodų apie tai? Jei {{keywords}} yra su kodu susijęs klausimas, tiesiog parašykite kodą"
+      },
+      "list": {
+        "title": "Raktažodžiai į klausimus",
+        "template": "Išvardykite 1 populiariausią klausimą apie „{{keywords}}“. Tada atsakykite į šį klausimą. Galiausiai išvardinkite dar 4 klausimus."
+      },
+      "suggest": {
+        "title": "Gaukite susijusių raktinių žodžių",
+        "template": "{{keywords}} yra mano paieškos raktiniai žodžiai „Google“. Pateikite 5 susijusių raktinių žodžių rinkinius."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Apibendrinti",
+        "template": "Apibendrinkite tai antros klasės mokiniui:"
+      },
+      "similar-pages": {
+        "title": "Panašūs puslapiai",
+        "template": "Raskite 10 puslapių, panašių į šį turinį su nuoroda:"
+      },
+      "grammar": {
+        "title": "Gramatika",
+        "template": "Pataisykite tai į standartinę anglų kalbą:"
+      },
+      "explain": {
+        "title": "Paaiškinkite",
+        "template": "Paaiškinkite šį turinį:"
+      },
+      "explain-codes": {
+        "title": "Paaiškinkite kodus",
+        "template": "Paaiškinkite šiuos kodus:"
+      },
+      "rewrite": {
+        "title": "Perrašyti",
+        "template": "Perrašykite šį turinį:"
+      },
+      "translate": {
+        "title": "Išversti",
+        "template": "Išverskite šį turinį į {{lang}} kalbą:"
+      },
+      "qa": {
+        "title": "Klausimai ir atsakymai",
+        "template": "Atsakykite į šį klausimą:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Nemokamas planas",
+    "basic": "Pagrindinis planas",
+    "pro": "Pro planas",
+    "ultra": "Neribotas planas",
+    "starter": "Pradedančiųjų planas"
+  },
+  "shortPlanNames": {
+    "free": "Nemokamai",
+    "basic": "Pagrindinis",
+    "pro": "Pro",
+    "ultra": "Neribotas",
+    "starter": "Pradedantieji"
+  },
+  "queryNames": {
+    "fast": "Greitas tekstas",
+    "advanced": "Išplėstinis tekstas",
+    "image": "Vaizdas",
+    "reader": "Skaitytojas"
+  },
+  "upgradeModal": {
+    "off": "Nuolaida!",
+    "desc": "Daugiau užklausų ir daugiau funkcijų",
+    "upgradeToUseXXX": "Atnaujinkite, kad galėtumėte naudoti <b>botą</b>",
+    "getWebAccess": "Naujovinkite, kad gautumėte atsakymą žiniatinklyje",
+    "videoSummay": "Atnaujinkite, kad galėtumėte naudoti vaizdo įrašo suvestinę",
+    "gpt4Desc": "GPT-4 yra žymiai išmanesnis ir gali padėti gauti logiškesnius ir tikslesnius atsakymus.",
+    "claude2Desc": "Claude-2 yra žymiai protingesnis ir gali padėti jums gauti logiškesnius ir tikslesnius atsakymus.",
+    "claude3SonnetDesc": "Claude 3 Sonnet yra rafinuotas kalbos modelis tiksliai, niuansuotai komunikacijai.",
+    "claude3OpusDesc": "Claude 3 Opus yra pažangus AI, skirtas sudėtingoms užduotims spręsti su nepaprastu efektyvumu.",
+    "webAccessDesc": "Sider gauna atsakymus į jūsų klausimus iš „Google“ ir naudoja dirbtinį intelektą, kad būtų galima glaustai organizuoti ir apibendrinti.",
+    "videoSummaryDesc": "Pasiekėte nemokamo naudojimo limitą. Norėdami ir toliau naudotis šia funkcija, apsvarstykite galimybę naujovinti į aukščiausios kokybės narystę.",
+    "features": {
+      "_0": "<b>Neribotos</b> greitos teksto užklausos",
+      "0_desc": "GPT-3.5 Turbo, „Gemini 1.0 Pro“, „Claude 3 Haiku“",
+      "_1": "<b>Neribotos</b> išplėstinės teksto užklausos",
+      "1_desc": "GPT-4o, Claude 3 Sonnet, Claude 3 Opus, Gemini 1.5 Pro",
+      "_2": "<b>1800</b> vaizdų užklausų/mėnesį",
+      "2_desc": "Skirta tapytojui, OCR ir vizijai",
+      "_3": "<b>6000</b> skaitytojo užklausų/mėnesį",
+      "3_desc": "PDF, tinklalapio straipsnis, YouTube vaizdo įrašas..."
+    }
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Ištirkite ribas!",
+      "pro": "Pasiektas kvotos limitas",
+      "ultra": "Pasiektas kvotos limitas"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Pasiekėte nemokamos kvotos limitą. Naujovinkite, kad gautumėte didesnę kvotą ir atrakinkite išplėstines funkcijas.",
+      "pro": "Pasiekėte šio mėnesio kvotos limitą. Atnaujinkite, kad gautumėte papildomą kvotą.",
+      "ultra": "Pasiekėte šio mėnesio kvotos limitą. Susisiekite su mumis adresu <a>care@sider.ai</a> ir pateikite pasiūlymų."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Įvertinkite mus penkiomis žvaigždutėmis",
+    "enjoy": "😘 Ar jums patinka šis pratęsimas?",
+    "enjoyNo": "Ne, atsiliepimai",
+    "enjoyYes": "Taip, penkių žvaigždučių įvertinimas!",
+    "feedbackTip": "🥹 Nurodykite savo nepasitenkinimo priežastį.",
+    "feedbackThx": "Ačiū už jūsų atsiliepimus."
+  },
+  "emailEnhance": {
+    "emailAssistant": "Pašto asistentas",
+    "emailAssistantDesc": "Kai įjungta, Sider gali padėti greitai atsakyti į el. laiškus.",
+    "inputPlaceholder": "Pasakykite Sider, kaip norite atsakyti...",
+    "intent": "Tikslas",
+    "orgLang": "Originalo kalba",
+    "quickAIReply": "AI atsakymas",
+    "tryAgain": "Bandyk iš naujo",
+    "voice": {
+      "applicant": "Pareiškėjas",
+      "casual": "Atsitiktinis",
+      "colleague": "kolega",
+      "confident": "įsitikinęs",
+      "customer-service-staff": "Klientus aptarnaujantis personalas",
+      "direct": "tiesioginis",
+      "emailLength": "El. pašto ilgis",
+      "empathetic": "empatiškas",
+      "enthusiastic": "Aistringas",
+      "formal": "Oficialus",
+      "formality": "Formalumas",
+      "friendly": "draugiškas",
+      "human-resources": "Žmogiškieji ištekliai",
+      "informational": "informatyvus",
+      "leader": "Lyderis",
+      "long": "Ilgai",
+      "medium": "Vidutinis",
+      "neutral": "Neutralus",
+      "personable": "Gerb",
+      "project-manager": "Projekto vadovas",
+      "sales-representative": "Pardavimų atstovas",
+      "short": "Trumpas",
+      "subordinate": "Pavaldinys",
+      "tone": "Tonas",
+      "witty": "protingas",
+      "yourRole": "Jūsų vaidmuo"
+    },
+    "voiceSettings": "Tono nustatymas",
+    "wayToReply": "Atsakyti pasiūlymus"
+  },
+  "searchEnhance": {
+    "getStarted": "Pradėkite dabar",
+    "adContent": "Ar protingesnis nei GPT-4? Claude 3 jau čia! Pakvieskite draugus ir išbandykite nemokamai!",
+    "noLoginAdContent": "Atrakinkite AI Galia: Ieškokite, Skaitykite, Rašykite, Verčiakite Greičiau & Protingiau!",
+    "noLoginBtn": "Prisijunkite prie 4M+ Patenkintų Naudotojų!"
+  },
+  "imageToolbar": {
+    "AITools": "DI Įrankiai",
+    "chatWithImage": "Pokalbis su paveikslėliu",
+    "extractText": "Išgauti tekstą",
+    "imageTools": "Paveikslėlių įrankiai",
+    "inpaint": "Pakeisti šepetėliu nubrėžtą sritį",
+    "removeBackground": "Pašalinti foną",
+    "removeText": "Pašalinti tekstą",
+    "replaceBackground": "Pakeisti foną",
+    "upscale": "Padidinti",
+    "variation": "Kurti variacijas"
+  }
+}

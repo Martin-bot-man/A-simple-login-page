@@ -1,0 +1,81 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP EliteBook 820 G3",
+    "Family": "103C_5336AN HP EliteBook"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "N75 Ver. 01.60"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 16.2,
+  "Disks": [
+    512.1,
+    256.1
+  ],
+  "Partitions": [
+    244.5,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "280mmx160mm",
+      "Resolution": "1360x768",
+      "Frequency": "59.98"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Nairobi",
+  "Install": {
+    "Media": "Ubuntu 22.04.3 LTS \"Jammy Jellyfish\" - Release amd64 (20230807.2)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "9": "console_setup",
+      "16": "prepare",
+      "27": "partman",
+      "51": "partman",
+      "52": "partman",
+      "185": "partman",
+      "186": "partman",
+      "195": "partman",
+      "203": "partman",
+      "206": "partman",
+      "212": "partman",
+      "215": "partman",
+      "233": "partman",
+      "252": "partman",
+      "257": "partman",
+      "260": "partman",
+      "271": "partman",
+      "275": "start_install",
+      "287": "timezone",
+      "291": "usersetup",
+      "394": "user_done",
+      "756": "done"
+    }
+  }
+}

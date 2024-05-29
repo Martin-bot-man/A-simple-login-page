@@ -1,0 +1,16 @@
+2024-05-29 07:24:28.158 [info] Extension host with pid 3660 started
+2024-05-29 07:24:28.159 [info] Skipping acquiring lock for /home/martin/.config/Code/User/workspaceStorage/80e8f9a6d3d96b3be3c8e0535897d0b9.
+2024-05-29 07:24:29.039 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-29 07:24:29.119 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-29 07:24:30.252 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-29 07:24:30.669 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-29 07:24:30.917 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-29 07:24:31.483 [info] Eager extensions activated
+2024-05-29 07:24:32.311 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-29 07:24:32.353 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-29 07:24:32.440 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-05-29 07:25:00.720 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19399
+2024-05-29 07:25:11.825 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-29 07:25:12.748 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19399
+2024-05-29 07:26:56.774 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-05-29 07:27:57.517 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'

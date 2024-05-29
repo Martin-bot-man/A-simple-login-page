@@ -1,0 +1,9 @@
+2024-05-29 07:24:25.167 [info] Started local extension host with pid 3660.
+2024-05-29 07:24:39.026 [info] [perf] Render performance baseline is 716ms
+2024-05-29 07:25:03.581 [info] Extension host (LocalProcess pid: 3660) is unresponsive.
+2024-05-29 07:25:04.994 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-05-29 07:25:11.819 [info] Extension host (LocalProcess pid: 3660) is responsive.
+2024-05-29 07:25:15.503 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)

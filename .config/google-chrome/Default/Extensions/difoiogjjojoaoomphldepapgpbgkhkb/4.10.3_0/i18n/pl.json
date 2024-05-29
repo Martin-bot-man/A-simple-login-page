@@ -1,0 +1,1567 @@
+{
+  "sidebar": "Pasek boczny",
+  "shortcut": "Skrót klawiszowy",
+  "ask": "Zapytać",
+  "save": "Zapisz to",
+  "saved": "Zapisane",
+  "delete": "Usuwać",
+  "deleteAll": "Usuń wszystko",
+  "remove": "Usunąć",
+  "cancel": "Anulować",
+  "retry": "Ponów",
+  "stop": "Zatrzymywać się",
+  "insert": "Wstawić",
+  "replace": "Zastępować",
+  "ok": "OK",
+  "submit": "Składać",
+  "attention": "Ogłoszenie",
+  "welcome": "Witaj",
+  "send": "Wysłać",
+  "copy": "Kopiuj",
+  "copied": "Skopiowane",
+  "clear": "Jasne",
+  "quote": "Cytat",
+  "download": "Pobierz",
+  "collapse": "Zwiń pasek boczny",
+  "done": "Zrobione",
+  "manage": "Zarządzać",
+  "template": "szablon",
+  "edit": "Edytować",
+  "add": "Dodać",
+  "feedback": "Informacja zwrotna",
+  "tweetit": "Obserwuj nas na X",
+  "fullPageChat": "Czat na całej stronie",
+  "whatNew": "Nowe funkcje",
+  "helpCenter": "Centrum Pomocy",
+  "gotIt": "Rozumiem",
+  "you": "Ty",
+  "settings": "Ustawienia",
+  "signin": "Zaloguj sie",
+  "createAccount": "Utwórz konto",
+  "createAccountTip": "Zarejestruj się, aby otrzymać <a>{{NUM}} darmowych</a> zapytań każdego dnia",
+  "free": "darmowe",
+  "signinNow": "Zaloguj się teraz",
+  "unlimited": "Nieograniczony",
+  "share": "Udział",
+  "myChats": "Moje czaty",
+  "general": "Konfiguracja ogólna",
+  "archive": "archiwum",
+  "unarchive": "rozarchiwizuj",
+  "searchPage": "Strona wyszukiwania",
+  "addons": "Dodatki",
+  "webStore": "Sklep internetowy",
+  "webApp": "Aplikacja internetowa",
+  "webAccess": "Dostęp do sieci",
+  "upgradeNow": "Ulepsz teraz",
+  "upgrade": "Aktualizacja",
+  "language": "Język",
+  "theme": "Temat",
+  "sendShortcut": "Wyślij skrót",
+  "model": "Model",
+  "version": "Wersja",
+  "more": "Więcej",
+  "listen": "Słuchać",
+  "skip": "Pominąć",
+  "switchModel": "Przełącz bota",
+  "vote": "Głosować",
+  "invite": "Zapraszać",
+  "hide": "Ukrywać",
+  "logout": "Wyloguj się",
+  "pin": "upiąć",
+  "unpin": "odpiąć",
+  "showMore": "Pokaż więcej",
+  "editTitle": "Edytuj tytuł",
+  "summarize": "Podsumować",
+  "keypoints": "Kluczowe punkty",
+  "quiz": "Kartkówka",
+  "textFromSelect": "Tekst z twojego zaznaczenia",
+  "textFromOCR": "Tekst z OCR",
+  "textFromTranslate": "Tekst z tłumaczenia",
+  "quoteText": "Cytat",
+  "summarizing": "Zreasumowanie",
+  "summarizeFailed": "Podsumowanie nie powiodło się",
+  "answering": "odpowiadanie",
+  "productivity": "Wydajność",
+  "generating": "Generowanie",
+  "modelUpdateSuccess": "Pomyślnie zaktualizowano model",
+  "modelUpdateFailed": "Aktualizacja modelu nie powiodła się",
+  "customPrompt": "Monit niestandardowy",
+  "currentTpl": "Obecny szablon:",
+  "current": "Aktualny",
+  "extra": "dodatkowy",
+  "quotaUsed": "używany",
+  "editTpl": "Edytuj ten szablon",
+  "delteTpl": "Usuń ten szablon",
+  "restoreTpl": "Przywróć ten szablon",
+  "archiveTpl": "Zarchiwizuj ten szablon",
+  "showTpl": "Pokaż ten szablon",
+  "prompts": "Wybierz polecenie",
+  "imageRetryTip": "Wystąpił błąd. Proszę spróbować ponownie.",
+  "mentionBot": "Wzmiankuj bota",
+  "mentionGPTs": "Wspomnij GPT-y",
+  "promptName": "Nazwa zachęty",
+  "promptContent": "Szybka treść",
+  "contactUs": "Skontaktuj się z nami",
+  "webAssistant": "Asystent internetowy",
+  "quickAction": "Menu kontekstowe",
+  "promptManage": "Menedżer natychmiastowy",
+  "issueType": "rodzaj zagadnienia",
+  "pinExt": "Przedłużenie pinów",
+  "yourEmailAddress": "Twój adres email",
+  "troubleshooting": "Rozwiązywanie problemów",
+  "openSidebar": "Otwórz pasek boczny",
+  "pasteSelection": "Wklej wybór",
+  "pasteTextPage": "Wklej tekst ze strony",
+  "getAnotherKey": "Zdobądź kolejny klucz",
+  "showSearchPanel": "Pokaż panel wyszukiwania",
+  "getItNow": "Zdobądź to teraz",
+  "addTools": "Dodaj narzędzia",
+  "toolsTitle": "Narzędzia",
+  "notNow": "Nie teraz",
+  "alwaysDisplay": "Zawsze wyświetlaj",
+  "queries": "Zapytania",
+  "total": "całkowity",
+  "getMore": "dostać więcej",
+  "goPremium": "upgrade do premium",
+  "goPremiumGetMore": "uaktualnij do premium, aby uzyskać więcej",
+  "myAccount": "Moje konto",
+  "clickToAsk": "Kliknij, aby zapytać",
+  "searchingFor": "Szukać:",
+  "searchedFor": "Szukałem:",
+  "conversationTip": "Ta rozmowa jest generowana w {{CHATPROVIDER}}. Aby kontynuować, przełącz się na ten tryb lub rozpocznij nowy czat.",
+  "using": "Za pomocą",
+  "used": "Używany",
+  "switchAndContinue": "Przełącz i kontynuuj",
+  "ExtractText": "Wyodrębnij tekst z obrazu",
+  "describleImage": "Opisz ten obraz",
+  "pricePerDay": "Mniej niż {{num}}/dzień",
+  "readingAssistant": "Asystent czytania",
+  "writingAssistant": "Asystent pisania",
+  "summarizePage": "Podsumuj tę stronę",
+  "readPage": "Przeczytaj tę stronę",
+  "moreQueries": "Więcej zapytań!",
+  "newPlan": "Nowy plan",
+  "switchToXXX": "Przełącz na {{model}}",
+  "switchToSider": "Przełącz na interfejs API {{APP_NAME}}",
+  "switch": "Przełącz",
+  "settingApiKey": "Ustawianie klucza API",
+  "all": "Wszystko",
+  "dropMsg": "Upuść tutaj, aby wysłać do Sidera",
+  "success": "Powodzenie",
+  "usedIn": "Stosuje się w",
+  "check": "Sprawdzać",
+  "example": "Przykład",
+  "toolsUpgradeTitle": "Ulepsz swoje doświadczenie z czatem!",
+  "ChangeTone": "Zmień ton",
+  "screenshot": "Zrzut ekranu",
+  "takeAScreenshot": "Zrób zrzut ekranu",
+  "back": "Wstecz",
+  "uploadImage": "Prześlij obraz",
+  "hideImage": "Ukryj obraz",
+  "chatWithPDF": "Czatuj w formacie PDF",
+  "recentFiles": "Ostatnie pliki",
+  "orTakeAction": "Lub podejmij inne działania:",
+  "NoFiles": "Brak najnowszych plików na tym czacie",
+  "showImage": "Pokaż obraz",
+  "fullscreen": "Pełny ekran",
+  "moreQuery": "Więcej zapytań",
+  "moreFeature": "Więcej funkcji!",
+  "switchToSidepanel": "Przełącz do paska bocznego",
+  "OR": "LUB",
+  "enable": "Włącz",
+  "refresh": "Odświeżać",
+  "painterOnBoardingTip": "Kliknij tutaj, aby utworzyć i edytować obrazy AI",
+  "pdfOnBoardingTip": "Kliknij tutaj, aby uzyskać ChatPDF",
+  "refreshModel": "Odśwież modele",
+  "refreshing": "Odświeżanie",
+  "collapseNav": "Zwiń pasek nawigacyjny",
+  "expandNav": "Rozwiń pasek nawigacyjny",
+  "phoneNumber": "Numer telefonu",
+  "recognizing": "Rozpoznawanie",
+  "earnFree": "Zarób darmowe zapytania GPT-4.0",
+  "result": "Wynik",
+  "sidepanelTip": "Wskazówka panelu bocznego",
+  "continue": "Kontynuować",
+  "confirm": "Potwierdzać",
+  "describeImage": "Opisz ten obraz",
+  "inviteFriendTip": "<a>Zaproś znajomych</a>, aby uzyskać dodatkowe zapytania",
+  "resetTime": "Zresetuj <a>3 sierpnia 2023 r.</a>",
+  "imageQuoteTipTitle": "Zapytaj obraz ponownie? Musisz zacytować zdjęcie",
+  "imageQuoteTipContent": "Aby ponownie zapytać o obraz, po prostu go zacytuj.",
+  "ocrEmptyMsg": "Nie mogę znaleźć tekstu na tym obrazie.",
+  "imageInputHint": "Zadawaj pytania na temat tego obrazu",
+  "selectedTextInputHint": "Zadaj pytania dotyczące zaznaczonego tekstu",
+  "fileInputHint": "Zadaj pytania dotyczące tego pliku",
+  "inviteYourFriends": "Zaprosić przyjaciół",
+  "xmasSale": "Świąteczna wyprzedaż",
+  "bigSale": "Wyprzedaż",
+  "bigSaleRest": "Sprzedaż",
+  "videoTutorial": "Zobacz szczegóły",
+  "edgePasteBug": "Nie można wkleić za pomocą skrótów klawiaturowych z powodu błędu przeglądarki Edge. Kliknij prawym przyciskiem myszy, aby wkleić.",
+  "enable&continue": "Włącz i kontynuuj",
+  "seeMoreHelp": "Zobacz więcej w <a>Centrum Pomocy</a>",
+  "login": {
+    "google": "Kontynuuj z Google",
+    "apple": "Kontynuuj z Apple",
+    "microsoft": "Kontynuuj z Microsoft",
+    "phone": "Kontynuuj z Telefonem"
+  },
+  "loginTip": "Nie masz konta? <a>Utwórz konto</a>",
+  "signupTip": "Masz już konto? <a>Zaloguj się</a>",
+  "guideVideoTitle": {
+    "chat": "Czat",
+    "translation": "Tłumacz",
+    "summary": "Podsumuj",
+    "chatpdf": "CzatPDF",
+    "write": "Pisz",
+    "painter": "Malarz",
+    "ocr": "OCR",
+    "grammar": "Gramatyka",
+    "email": "Odpowiedź Email"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Czat Multi-bot",
+      "web-access": "Dostęp do Sieci",
+      "data-analysis": "Zaawansowana Analiza Danych",
+      "painter": "Generowanie Obrazów",
+      "prompts": "Własne Wpisy"
+    },
+    "translation": {
+      "widget": "Wybrany Tekst przez Pasek Boczny",
+      "selected": "Wybrany Tekst przez Menu Kontekstowe",
+      "input": "Wpisany Tekst na Stronie",
+      "page": "Pełna Strona",
+      "in-chat": "Wybrany Tekst w Czacie",
+      "in-chat2": "Wpisany Tekst w Czacie"
+    },
+    "summary": {
+      "youtube": "Filmy z YouTube",
+      "doc": "Przesłane Dokumenty",
+      "page": "Strona przez Szybkie Menu",
+      "page2": "Strona przez Czat"
+    },
+    "chatpdf": {
+      "chatpdf": "Czat z PDF"
+    },
+    "write": {
+      "widget": "Komponowanie na Żądanie",
+      "context": "Ulepsz Wybrany Tekst",
+      "input": "Przepisz Wejścia"
+    },
+    "painter": {
+      "image": "Generuj Obrazy",
+      "bg-remove": "Usuń Tło",
+      "bg-replace": "Zamień Tło",
+      "upscale": "Powiększ Obrazy",
+      "eraser": "Usuń Zamazane Obszary",
+      "text-remove": "Usuń Tekst"
+    },
+    "ocr": {
+      "ocr": "Wyodrębnij Tekst i Równania"
+    },
+    "grammar": {
+      "widget": "Sprawdzenie Gramatyki przez Pasek Boczny",
+      "context": "Sprawdzenie Gramatyki przez Menu Kontekstowe"
+    },
+    "email": {
+      "reply": "Generuj Odpowiedzi Email"
+    }
+  },
+  "popupPage": {
+    "thank": "Dziękujemy za korzystanie z rozszerzenia {{APP_NAME}}!",
+    "desc": "Bieżąca strona jest unikalną stroną, a funkcja paska bocznego jest niedostępna. Możesz jednak otworzyć całą stronę, aby porozmawiać!",
+    "chatNow": "Porozmawiaj teraz"
+  },
+  "setupPage": {
+    "loginSuccess": "Logowanie zakończone sukcesem",
+    "welcome": "Witamy w aplikacji {{APP_NAME}}!",
+    "startUsing": "Zacznij korzystać z {{APP_NAME}}",
+    "explore": "Odkryj funkcję {{FEATURE_NAME}}",
+    "favorites": "Najpopularniejsze rozszerzenie Chrome'a",
+    "fiveStarRate": "Ocena 5 gwiazdek",
+    "activeUser": "Aktywni użytkownicy",
+    "userCount": "4M+",
+    "spamMsg": "Twoje dane nie zostaną ujawnione i nie będzie żadnego spamu.",
+    "privacy": "Kontynuując, zgadzasz się na <a>Politykę Prywatności</a> i <b>Warunki Użytkowania</b>.",
+    "privacyPart1": "Kontynuując, zgadzasz się na",
+    "privacyPart2": "<a>Politykę Prywatności</a> i <b>Warunki Użytkowania</b>",
+    "loginWith": "Zaloguj się za pomocą {{name}}",
+    "pinTips": "<b>Przypnij aplikację {{APP_NAME}}</b>, łatwiejszy dostęp!",
+    "pinClickTip": "Kliknij {{icon}}, aby przypiąć {{APP_NAME}}",
+    "pinClickTip2": "Przypnij {{APP_NAME}} dla Szybkiego Dostępu",
+    "pinClickTip3": "Kliknij ikonę {{icon}} w prawym górnym rogu",
+    "next": "Następny",
+    "pinGuideDesc": "Aby ułatwić dostęp do rozszerzenia, pozostaw je przypięte, wykonując poniższe czynności.\n1. Kliknij ikonę układanki <b>IKONA</b> obok swojego awatara profilu.\n2. W rozwijanym menu znajdź {{APP_NAME}}.\n3. Klikaj ikonę pinezki, aż zmieni kolor na niebieski.",
+    "signInGuideTitle": "Zaloguj się teraz, aby odblokować następujące elementy:",
+    "signInGuideStep1": "Synchronizuj ustawienia rozszerzeń między komputerami",
+    "signInGuideStep2": "Uzyskaj dostęp do monitów z różnych laptopów",
+    "signInGuideStep3": "Zapisz czaty do wykorzystania w przyszłości",
+    "signInGuideStep4": "Udostępniaj czaty za pomocą linku",
+    "welcomeGuide": "Witamy w {{APP_NAME}}",
+    "step1Label": "pierwszy krok",
+    "step2Label": "drugi krok",
+    "tryOut": "Wypróbuj to",
+    "endTitle": "{{APP_NAME}} jest gotowy, aby Ci pomóc!",
+    "endTip": "Możesz teraz przeglądać dowolną stronę internetową lub zagłębić się w nasze Centrum Pomocy, aby dowiedzieć się więcej.",
+    "learnMore": "Dowiedz się więcej o {{APP_NAME}}",
+    "endBottom": "Potrzebujesz pomocy lub masz sugestie?",
+    "endBottom2": "Cenimy Twoją opinię! <a>Przekaż opinię</a>, aby pomóc nam ulepszyć Twoje doświadczenie."
+  },
+  "getKeyPage": {
+    "welcome": "Witamy w {{APP_NAME}}! Oto Twoja podróż do rozpoczęcia:",
+    "stepTitle": "Jak uzyskać klucz API.",
+    "step1": "Krok 1: Uzyskaj klucz API",
+    "step1-1": "<i>Zaloguj się na swoje konto OpenAI</i> Jeśli nie masz konta, zarejestruj się <b>TUTAJ</b>",
+    "step1-2": "Odwiedź stronę OpenAI API Key",
+    "step1-3": "Utwórz nowy tajny klucz i skopiuj go w następujący sposób",
+    "step2": "Krok 2: Wklej klucz API w polu poniżej",
+    "step2-tips": "Nie martw się. Twój klucz API jest używany tylko lokalnie w rozszerzeniu ChatGPT. Korzystanie z API jest bardziej stabilne niż bezpośrednie korzystanie z ChatGPT.",
+    "step3": "Krok 3: Sprawdź swoje kredyty <i>tutaj</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Jak uzyskać dostęp do ChatGPT i używać go w dowolnym miejscu",
+    "howToAccessTip": "Aby mieć pewność, że sztuczna inteligencja jest dostępna dla wszystkich, zapewniamy 3 sposoby dostępu do ChatGPT i korzystania z niej w dowolnym miejscu.",
+    "recommend4all": "(Zalecane dla wszystkich)",
+    "sidebarProvider": "Pasek boczny korzysta z API ChatGPT Premium, aby zapewnić stabilny dostęp.",
+    "sidebarProviderGoPremium": "Codziennie oferujemy {{num}} bezpłatnych zapytań, aby zagwarantować wszystkim dostępność sztucznej inteligencji. <a>Przejdź na wersję premium</a>, aby zwiększyć dzienny limit zapytań i wesprzeć naszą misję <b>zapewnienia uniwersalnej sztucznej inteligencji dla wszystkich</b>.",
+    "webappProvider": "Aplikacja internetowa ChatGPT obsługująca interfejs API jest bezpłatna, ale czasami może działać niestabilnie.",
+    "webappGPT4": "(Użytkownicy ChatGPT Plus mogą go wypróbować)",
+    "webappTip1": "Jeśli jesteś użytkownikiem ChatGPT Plus, masz teraz możliwość wyboru GPT-4. Jednak OpenAI może ograniczyć liczbę wiadomości, które możesz wysłać dziennie.",
+    "webappTip2": "Proszę <m>Przypnij kartę ChatGPT</m> i pozostań zalogowany na stronie ChatGPT. Może to jednak nie gwarantować stabilności. Jeśli napotkasz jakiekolwiek problemy, odwiedź <v>stronę internetową ChatGPT</v> i odśwież stronę.",
+    "GPT4Desc": "Musisz pozostać zalogowany na swoje konto ChatGPT na stronie internetowej. Stabilność może być niespójna zarówno dla użytkowników Plusa, jak i bezpłatnych użytkowników z powodu ograniczeń OpenAI.",
+    "apiKeyProviderTip": "(Dla programistów z kluczem API)",
+    "apiKeyProvider": "Oficjalne API OpenAI jest bardziej stabilne, a opłaty zależą od użycia.",
+    "apiKeyLocally": "Twój klucz API jest przechowywany lokalnie w Twojej przeglądarce i nigdy nie jest wysyłany nigdzie indziej.",
+    "ownURL": "Użyj mojego własnego adresu URL",
+    "customModelName": "Użyj niestandardowej nazwy modelu",
+    "apiKeyTip1": "Twój bezpłatny klucz OpenAI API mógł wygasnąć. <a>Sprawdź tutaj stan wygaśnięcia klucza API.</a>",
+    "apiKeyTip2": "Jeśli korzystasz z bezpłatnego klucza API OpenAI, dostęp do ChatGPT może nie być stabilny, gdy występuje duże zapotrzebowanie.",
+    "apiFreeGuide": "Postępuj zgodnie z instrukcjami, aby uzyskać klucz API.",
+    "apiKeyGpt4Tip": "Rozszerzenie obsługuje GPT-4, jeśli wprowadzisz klucz API GPT-4.",
+    "displaySearchRes": "Wyświetl odpowiedź ChatGPT obok stron wyników wyszukiwania",
+    "whenToAsk": "Kiedy pytać ChatGPT",
+    "promptTplForSearch": "Szablon monitu dla Google i innych wyszukiwarek",
+    "addNewTplForSearch": "Dodaj nowy szablon monitu",
+    "launchSidebar": "Uruchom pasek boczny",
+    "sidebarLocation": "Lokalizacja paska bocznego",
+    "showSelectedTextTitle": "Automatyczne wyświetlanie zaznaczonego tekstu w polu wprowadzania",
+    "showSelectedTextDesc": "Automatycznie pokazuj zaznaczony tekst jako cytat w polu wprowadzania, aby szybko wykonywać działania z podpowiedziami",
+    "showSelectedTextTip": "Jeśli wolisz, aby zaznaczony tekst nie był automatycznie wyświetlany w przyszłości, możesz to wyłączyć w <a>ustawieniach paska bocznego</a>.",
+    "sidepanelLocation": "Lokalizacja paska bocznego",
+    "sidebarLeftOrRight": "Umieść pasek boczny po lewej lub prawej stronie",
+    "linkToSetting": "Zmień lokalizację paska bocznego w ustawieniach przeglądarki",
+    "sidepanelLeftOrRight": "Umieść panel boczny po lewej lub prawej stronie. Panel boczny jest dostępny tylko w Google Chrome 114 lub nowszej wersji.",
+    "sidebarDisplayOption": "Tryb wyświetlania paska bocznego",
+    "sidebarDisplayOptionTip": "Wybierz sposób wyświetlania paska bocznego na stronie",
+    "sidebarDisplayOptions": {
+      "overlay": "Narzuta",
+      "expand": "Rozszerzanie"
+    },
+    "sidebarOnStartup": "Podczas otwierania bocznego panelu",
+    "sidebarOnStartupTip": "Skonfiguruj tryb wyświetlania interfejsu czatu podczas otwierania bocznego panelu",
+    "sidebarOnStartupOptions": {
+      "new": "Zawsze rozpocznij nowy czat",
+      "last": "Zawsze wznow ostatni czat",
+      "auto": "Automatycznie"
+    },
+    "sidebarOnStartupAutoTip": "Jeśli pasek boczny zostanie ponownie otwarty w ciągu 10 minut, wznow ostatni czat; jeśli minie 10 minut, rozpocznij nowy.",
+    "sidebarIcon": "Ikona paska bocznego",
+    "sidebarIconAccess": "Uzyskaj dostęp do paska bocznego za pomocą ikony znajdującej się w prawym dolnym rogu strony. Możesz przeciągnąć, aby przesunąć go w górę iw dół",
+    "easiestWayUse": "Najłatwiejszy sposób korzystania z {{APP_NAME}}",
+    "displayWhenSelect": "Wyświetlaj, gdy wybrany jest tekst",
+    "promptTplForSidebar": "Szablon monitu dla paska bocznego",
+    "dragSidebarTpl": "Przeciągnij i upuść, aby zmienić kolejność szablonów LUB zarchiwizować te, których nie będziesz używać",
+    "addNewTplForSidebar": "Dodaj nowy szablon monitu",
+    "editSearchTplTip": "użyj {{keywords}}, aby skierować słowa kluczowe wyszukiwania",
+    "editSearchTplPlaceholder": "{{keywords}} w treści monitu zostanie automatycznie zastąpione wyszukiwanymi słowami kluczowymi",
+    "editSidebarTplTip": "Wklej lub wprowadź treść tutaj",
+    "showOnList": "Pokaż na liście",
+    "translatorNavTitle": "Szybkie wyszukiwanie",
+    "translatorTitle": "Okno szybkiego wyszukiwania",
+    "translatorFabTitle": "Ikona szybkiego wyszukiwania",
+    "translatorFabDesc": "Przejdź do okna szybkiego wyszukiwania za pomocą ikony.",
+    "translatorFabToggleLabel": "Wyświetlaj, gdy wybrany jest tekst",
+    "translatorTplTitle": "Szablon monitu dla wyskakującego okienka",
+    "translatorTplDesc": "Pierwszy główny szablon zostanie użyty jako domyślne polecenie dla wyskakującego okienka.",
+    "translatorPrimaryTemplates": "Główne szablony",
+    "translatorTemplatesNotes": "*To wyskakujące okienko ma te same szablony co pasek boczny. Jeśli chcesz edytować lub dodać szablon, zmodyfikuj go w <b>Ustawieniach paska bocznego</b>.",
+    "translatorIntroTitle": "🤔 Co to jest Szybkie wyszukiwanie?",
+    "translatorIntroDesc": "Szybkie wyszukiwanie to szybkie działanie aplikacji {{APP_NAME}}, udostępniające szereg przydatnych narzędzi.\n\nPojawia się natychmiast po zaznaczeniu tekstu. Za pomocą jednego kliknięcia możesz szybko tłumaczyć teksty, pisać je od nowa, uzyskiwać wyjaśnienia i wiele więcej. Dodatkowo możesz zmienić kolejność narzędzi i dostosować własne podpowiedzi.\n\nAby aktywować {{APP_NAME}}, wystarczy kliknąć ikonę szybkiego wyszukiwania.",
+    "translatorHostFabConfigLabel": "Lista witryn, w których szybkie wyszukiwanie jest wyłączone",
+    "translatorShortcutLabel": "Klawisz skrótu do szybkiego wyszukiwania",
+    "quickAction": {
+      "shortcutDesc": "Aktywuj {{name}} za pomocą skrótu",
+      "whenToDisplay": "Preferencje wyświetlania {{name}}",
+      "displayOnSelect": "Automatycznie pokazuj {{name}}, gdy zaznaczam tekst",
+      "displayOnShortcut": "Pokazuj {{name}}, gdy zaznaczam tekst i naciskam klawisz skrótu",
+      "displayOnSelectGuide": "Preferujesz bardziej uporządkowany widok? Aktywuj menu kontekstowe za pomocą wybranego klawisza skrótu w <a>ustawieniach</a>.",
+      "goToSettings": "Przejdź do Ustawień",
+      "customPromptMenu": "Dostosuj monit dla tego menu",
+      "readTitle": "Menu kontekstowe do czytania",
+      "selectionDesc": "Wyświetl menu po zaznaczeniu dowolnego tekstu",
+      "diabledSite": "Lista witryn, na których ta funkcja jest wyłączona",
+      "writeTitle": "Menu kontekstowe do pisania (pole wprowadzania)",
+      "writeInputIconTitle": "Ikona pola wprowadzania",
+      "writeInputIconDesc": "Wyświetlaj ikonę asystenta pisania w dowolnym polu wprowadzania",
+      "triggerKeyword": "Wyzwalaj słowa kluczowe",
+      "triggerKeywordDesc": "Aktywuj {{name}} we wszystkich wpisach tekstowych za pomocą słów kluczowych",
+      "whatisQuickAction": "🤔 Co to jest {{name}}?",
+      "quickActionDesc": "{{name}} to zbiór cennych narzędzi, które są łatwo dostępne po wybraniu tekstu lub użyciu klawisza skrótu. Jednym kliknięciem możesz szybko usprawnić czytanie lub pisanie. Dodatkowo możesz aktywować pole zachęty do wprowadzania danych, aby pomóc Ci w spełnieniu określonych wymagań podczas czytania lub pisania. Obejmuje to takie zadania, jak tworzenie zarysu tematu, burza mózgów i przepisywanie akapitów."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "Podsumowanie wideo YouTube",
+        "desc": "Po włączeniu {{APP_NAME}} może pomóc w podsumowaniu filmów z YouTube"
+      },
+      "webpage": {
+        "title": "Podsumowanie strony internetowej",
+        "desc": "Po włączeniu {{APP_NAME}} może pomóc w podsumowaniu artykułów na stronie internetowej"
+      },
+      "qa": {
+        "title": "Asystent pytań i odpowiedzi",
+        "desc": "Po włączeniu {{APP_NAME}} może odpowiedzieć na pytanie w Quora, StackOverflow i innych witrynach kontroli jakości"
+      },
+      "pageTranslation": {
+        "desc": "Po włączeniu {{APP_NAME}} może przetłumaczyć całą stronę na język docelowy"
+      },
+      "code": {
+        "title": "Asystent kodu",
+        "desc": "Po włączeniu, {{APP_NAME}} może pomóc Ci wyjaśnić kody na stronie internetowej"
+      },
+      "image": {
+        "title": "Asystent Obrazu",
+        "desc": "Po włączeniu, możesz szybko uzyskać dostęp do narzędzi AI dla obrazów, najechawszy kursorem na dowolny obraz"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Nowy monit",
+      "editPrompt": "Edytuj monit",
+      "checkPrompt": "Sprawdź monit",
+      "archiveTips": "Zarchiwizowane monity nie będą wyświetlane w scenariuszach, ale można je przeszukiwać",
+      "dragTips": "Przeciągnij i upuść, aby zmienić kolejność monitów LUB zarchiwizować te, których nie będziesz używać w odpowiednim scenariuszu",
+      "howToWritePrompt": "Jak napisać zachętę",
+      "howToVarTitle": "Jakie zmienne można uwzględnić w podpowiedzi?",
+      "howToVar1": "Możesz użyć tej zmiennej do reprezentowania danych wejściowych lub wybranej zawartości. Jeżeli w podpowiedzi nie będzie tej zmiennej, wprowadzona lub wybrana treść zostanie ujęta w potrójny cudzysłów i umieszczona na samym końcu podpowiedzi.",
+      "howToVar2": "Możesz użyć tej zmiennej do reprezentowania języka, którego chcesz użyć do wyjścia, na podstawie domyślnego języka ustawionego w ustawieniach.",
+      "howToExample": "Skorzystaj z poniższych tematów lub słów kluczowych, aby wygenerować konspekt zawierający tytuły, rozdziały i podsekcje.\nWyprowadź go w formacie Markdown. Daj mi tylko wynik i nic więcej. Konspekt powinien być w języku {{lang}}.\nTematy lub słowa kluczowe: {{content}}",
+      "clickToExpand": "Kliknij aby rozszerzyć",
+      "clickToHide": "Kliknij, aby ukryć"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Raport o problemie",
+        "title": {
+          "label": "Podsumowanie problemu",
+          "tip": "Daj nam znać w kilku słowach, co poszło nie tak."
+        },
+        "detail": {
+          "label": "Szczegóły problemu",
+          "tip": "Opisz szczegółowo, co poszło nie tak, wszelkie podjęte działania i komunikaty o błędach."
+        }
+      },
+      "fr": {
+        "name": "Żądanie funkcji",
+        "title": {
+          "label": "Tytuł",
+          "tip": "Czego dotyczy twoja prośba?"
+        },
+        "detail": {
+          "label": "Opis",
+          "tip": "Podaj szczegółowy opis żądanej nowej funkcji."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Zapytaj ChatGPT:",
+    "savePrompt": "Zachowaj monit",
+    "saveNewPrompt": "Zapisz jako nowy monit",
+    "replacePrompt": "Zastąp monit",
+    "inputPlaceholder1": "Wprowadź monit lub wybierz z menu",
+    "inputPlaceholder2": "Wklej lub wprowadź treść tutaj",
+    "startNewLine": "Naciśnij {{shortcut}}, aby rozpocząć nową linię",
+    "inputPlaceholderCodes": "Wklej lub wprowadź kody tutaj",
+    "inputPlaceholderQA": "Wklej lub wpisz pytanie tutaj",
+    "pressToSubmit": "Naciśnij {{key}}, aby przesłać",
+    "response": "Odpowiedź:",
+    "stopGenerating": "Przestań generować",
+    "regenerate": "Zregeneruj odpowiedź",
+    "askTabLabel": "Zapytać",
+    "chatTabLabel": "Czat",
+    "moreTabLabel": "Więcej",
+    "composeTabLabel": "Pisać",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Tłumaczyć",
+    "grammarTabLabel": "Gramatyka",
+    "searchTabLabel": "Szukaj",
+    "queryLeft": "Pozostało {{num}} zapytań",
+    "queryLeft2": "Pozostało {{num}}",
+    "freePlan": "Darmowy plan",
+    "premiumPlan": "Abonament premium",
+    "extraQuota": "Dodatkowy limit",
+    "submitOption": "Prześlij opcję",
+    "painterLabel": "Malarz",
+    "downloadLabel": "Pobierz aplikację na komputer/mobilną",
+    "uploadPDF": "Prześlij plik PDF",
+    "deleteAllConfirmTitle": "Usuń wszystko"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Bardzo szybki, doskonały do większości codziennych zadań.",
+    "gpt-4": "Najbardziej wydajny model, najlepszy do złożonych zadań wymagających zaawansowanego rozumowania.",
+    "gpt-4o": "Najbardziej zaawansowany model, najlepszy do skomplikowanych zadań wymagających zaawansowanego rozumowania.",
+    "gpt-5": "Najnowszy model OpenAI, najlepszy do złożonych zadań przy zachowaniu jakości.",
+    "claude-instant": "Podstawowy model z zastosowań Anthropic, o niskim opóźnieniu i dużej przepustowości.",
+    "claude2": "Najlepszy w swojej klasie model firmy Anthropic, zapewniający doskonałą wydajność w przypadku zadań wymagających złożonego rozumowania.",
+    "claude-3-haiku": "Najbardziej kompaktowy model Anthropic, zaprojektowany dla niemal natychmiastowej responsywności i płynnych doświadczeń z AI, które naśladują interakcje człowieka",
+    "claude-3-sonnet": "Najbardziej zrównoważony model Anthropic, łączący inteligencję i szybkość, idealny do szerokiego zakresu zadań.",
+    "claude-3-opus": "Najpotężniejszy model Anthropic, zapewniający wydajność na najwyższym poziomie w przypadku bardzo skomplikowanych zadań i wykazujący płynność i zrozumienie zbliżone do ludzkiego.",
+    "bard": "Model od Google (PaLM 2) dobrze radzi sobie w zaawansowanych zadaniach wnioskowania.",
+    "gemini-pro": "Najbardziej zrównoważony model Google, idealnie łączący możliwości z efektywnością.",
+    "gemini-1.5-pro": "Najlepszy model Google'a pod względem ogólnej wydajności w szerokim zakresie zadań.",
+    "gemini-1.5-flash": "Lekki model Google'a, zoptymalizowany pod kątem szybkości i efektywności.",
+    "llama-3": "Najnowszy model Meta, najlepszy do skomplikowanych zadań przy zachowaniu jakości."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Koszt <m>1 zapytanie typu Fast Text</m>.",
+    "gpt-4": "Koszt <m>1 zaawansowane zapytanie tekstowe</m>.",
+    "gpt-4-2": "Koszt <m>2 Zaawansowane zapytanie tekstowe</m>.",
+    "gpt-4-n": "Koszt <m>{{num}} zaawansowane zapytanie tekstowe</m>."
+  },
+  "sidebarChatPanel": {
+    "signinToAsk": "Zaloguj się, aby zapytać {{MODEL_NAME}}",
+    "newChat": "Nowa rozmowa",
+    "chatHistory": "Historia czatu",
+    "inputPlaceholder": "Wpisz wiadomość...",
+    "send": "Wysłać",
+    "feedback": "Informacja zwrotna",
+    "share": "Udział",
+    "deleteConfirmTitle": "Usunąć tę rozmowę?",
+    "deleteConfirmContent": "Tej czynności nie można cofnąć.",
+    "compareWeb": "Porównaj odpowiedź z sieci",
+    "improveWithXXX": "Uzyskaj mądrzejszą odpowiedź od <b>Bota</b>",
+    "improveWithXXX2": "Uzyskaj wyczerpującą odpowiedź od <b>Bota</b>",
+    "compareWithXXX": "<b>Zapytaj bota</b>",
+    "improveWithSearch": "Uzyskaj odpowiedź internetową od Google",
+    "improveWithBoth": "Uporządkuj Odpowiedzi Google za pomocą GPT-4",
+    "answerWithoutSearching": "Zapytaj oryginalnego <b>bota</b>",
+    "screenshot": "Zrzut ekranu",
+    "upload": "Wgrywać",
+    "uploadFile": "Prześlij pliki",
+    "siderUploadFile": "Prześlij pliki w formatach PDF, DOC, XLSX, CSV, JPG, JSON i innych, pojedynczo, do 100MB na plik.",
+    "addImage": "Dodaj obraz",
+    "welcomeQues": [
+      {
+        "title": "🤔 Wyjaśnij złożoną koncepcję",
+        "ques": "Opowiedz mi coś o Wielkim Wybuchu, abym mógł to wyjaśnić mojemu 5-letniemu dziecku"
+      },
+      {
+        "title": "🧠 Przeprowadź burzę mózgów bezprecedensowych pomysłów",
+        "ques": "Proszę o 10 pomysłów na prezent na urodziny mojego przyjaciela"
+      },
+      {
+        "title": "💭 Natychmiast zdobywaj chwytliwe tytuły",
+        "ques": "Wygeneruj pięć chwytliwych tytułów dla mojego artykułu o przypadku użycia ChatGPT"
+      },
+      {
+        "title": "",
+        "ques": "Czy możesz polecić najlepsze atrakcje i lokalne restauracje w Paryżu?"
+      }
+    ],
+    "textSelectedTip": "Tekst z Twojego wyboru",
+    "ocrTextTip": "{{name}} Wynik",
+    "translateTip": "Wynik tłumaczenia",
+    "textSelectedSystemMsg": "Co chciałbyś zrobić z tekstem?",
+    "welcomeSystemMsg": "Cześć! Jak mogę Ci dzisiaj pomóc?",
+    "welcomeMsg": "Jak mogę Ci dzisiaj pomóc?",
+    "chatActionTranslate": "Przetłumacz na {{lang}}",
+    "addAPrompt": "Dodaj monit",
+    "search": "Szukaj",
+    "continueInChat": "Kontynuuj na czacie",
+    "chatWithVideo": "Czat z wideo",
+    "userStopTip": "Użytkownik anulował żądanie.",
+    "noChatHistory": "Brak dotychczasowej historii.",
+    "noSearchHistory": "Nie znaleziono wyników.",
+    "webAccessModalTitle": "{{APP_NAME}} umożliwia zarówno ChatGPT-3.5, jak i GPT-4 dostęp do sieci!",
+    "webAccessModalContent": "Dane ChatGPT nie są podawane w czasie rzeczywistym. {{APP_NAME}} łączy w sobie inteligencję ChatGPT z informacjami internetowymi uzyskiwanymi w czasie rzeczywistym, umożliwiając GPT skuteczniejsze radzenie sobie z pytaniami związanymi z informacjami w czasie rzeczywistym. Zaktualizuj, aby zyskać tę funkcję i nie martw się już o nieaktualne informacje!",
+    "readDoc": "Czytanie dokumentów",
+    "readDocFail": "Niepowodzenie odczytu dokumentów"
+  },
+  "sidebarComposePanel": {
+    "compose": "Komponować",
+    "reply": "Odpowiedź",
+    "writePlaceholder": "Temat, który chcesz skomponować",
+    "replyPlaceholder1": "Oryginalny tekst, na który chcesz odpowiedzieć",
+    "replyPlaceholder2": "Ogólna treść Twojej odpowiedzi na powyższy tekst",
+    "submitShortcut": "Naciśnij {{shortcut}}, aby wygenerować wersję roboczą",
+    "generate": "Wygeneruj wersję roboczą",
+    "format": "Format",
+    "email": "E-mail",
+    "idea": "Pomysł",
+    "outline": "Zarys",
+    "essay": "Praca pisemna",
+    "paragraph": "Ustęp",
+    "blog": "Post na blogu",
+    "ads": "Reklamy marketingowe",
+    "twitter": "Świergot",
+    "comment": "Komentarz",
+    "message": "Wiadomość",
+    "tone": "Ton",
+    "professional": "Profesjonalny",
+    "formal": "Formalny",
+    "casual": "Zwykły",
+    "enthusiastic": "Entuzjastyczny",
+    "informational": "Informacyjny",
+    "funny": "Śmieszny",
+    "length": "Długość",
+    "short": "Krótki",
+    "medium": "Średni",
+    "long": "Długi",
+    "preview": "Zapowiedź",
+    "regenerate": "Zregenerować",
+    "addToSite": "Dodaj do witryny",
+    "addToSiteTip": "Umieść kursor myszy w żądanym polu wprowadzania i kliknij „{{name}}”, aby wstawić"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Naprawić bład",
+    "retry": "Spróbować ponownie",
+    "inputPlaceholder": "Upewnij się, że Twoje pisanie po angielsku jest wolne od błędów. Wklej tekst lub zacznij pisać poniżej, aby sprawdzić błędy gramatyczne, ortograficzne i interpunkcyjne.",
+    "checking": "Kontrola",
+    "checkFailed": "Sprawdź nie powiodło się",
+    "accept": "Zaakceptować",
+    "ignore": "Ignorować",
+    "continueImproving": "Kontynuuj doskonalenie",
+    "improveGuideText": "Kliknij tutaj, aby uzyskać poprawiony tekst i powód!",
+    "improvedText": "Ulepszony tekst:",
+    "reasonForChanges": "Powód zmian:"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Automatyczne wykrywanie",
+    "textAreaPlaceholder": "Wpisz lub wklej tutaj tekst do przetłumaczenia",
+    "textAreaLimitHint": "Osiągnięto limit znaków wynoszący {{wordLimit}}",
+    "SelectModel": "Wybierz model",
+    "customization": {
+      "title": "Dostosowywanie",
+      "resetBtn": "Resetowanie",
+      "Length": "Długość",
+      "LengthOpt": {
+        "Brief": "Krótki",
+        "Concise": "Zwięzły",
+        "Standard": "Standard",
+        "Expanded": "Rozszerzony"
+      },
+      "Tone": "Ton",
+      "ToneOpt": {
+        "Casual": "Zwykły",
+        "Neutral": "Neutralny",
+        "Formal": "Formalny",
+        "Authoritative": "Autorytatywny",
+        "Empathetic": "Empatyczny"
+      },
+      "Style": "Styl",
+      "StyleOpt": {
+        "Literal": "Dosłowny",
+        "DynamicEquivalence": "Równoważność dynamiczna",
+        "CreativeAdaptation": "Twórcza adaptacja"
+      },
+      "Complexity": "Złożoność",
+      "ComplexityOpt": {
+        "Layman": "Laik",
+        "Standard": "Standard",
+        "Expert": "Ekspert"
+      }
+    }
+  },
+  "sidebarSearchPanel": {
+    "history": "Historia",
+    "searchProgress": {
+      "searchInWeb": "Szukaj w sieci",
+      "analyzeSearchResult": "Analizuj wyniki wyszukiwania",
+      "generateAnswer": "Generuj odpowiedź",
+      "searchCompleted": "Wyszukiwanie zakończone",
+      "searchCancelled": "Wyszukiwanie anulowane"
+    },
+    "answer": "Odpowiedź",
+    "currentVisit": "Bieżąca wizyta",
+    "feedback": {
+      "stepAnswer": "Generuj odpowiedź",
+      "stepSearch": "Wykonaj wyszukiwanie",
+      "stepUnderstand": "Rozumiej pytania",
+      "tipTotal": "Łącznie {{count}} zapytań"
+    },
+    "focus": "Focus",
+    "newSearch": "Nowe wyszukiwanie",
+    "searching": "Szukanie",
+    "searchFromAll": "Wyszukaj w całym Internecie",
+    "searchAll": "Wyszukaj we wszystkich",
+    "searchRange": "Zakres wyszukiwania",
+    "searchFromSite": "Wyszukaj na stronie {{domain}}",
+    "sources": "Źródła",
+    "suggestions": "Sugestie",
+    "title": "Agent wyszukiwania",
+    "viewAll": "Wyświetl wszystko",
+    "defaultSearchSuggesiton": "Kiedy jest najlepszy czas na odwiedzenie Paryża?"
+  },
+  "OCRPanel": {
+    "ocrTips": "Wyodrębnij tekst, liczby i równania z obrazu",
+    "ocrCost": "Każde zapytanie o obraz {{name}} będzie kosztować {{num}}",
+    "newOCR": "Nowy {{ocr}}",
+    "noText": "Nie rozpoznano tekstu",
+    "aiOCRTips": "AI OCR doskonale radzi sobie z złożonymi zadaniami, ale może popełniać błędy."
+  },
+  "translator": {
+    "quickActions": "Szybkie wyszukiwania",
+    "disableHostFabLabel": "Wyłącz na tej stronie",
+    "disableFabLabel": "Wyłącz we wszystkich witrynach"
+  },
+  "pageTranslation": {
+    "pageTranslation": "Przetłumacz tę stronę",
+    "showOriginal": "Pokaż oryginalny tekst",
+    "transSettings": "Ustawienia tłumaczeń",
+    "source": "Źródło",
+    "target": "Cel",
+    "autoDetect": "Automatyczne wykrywanie",
+    "displayStyle": "Styl wyświetlania",
+    "displayStyles": [
+      "Brak",
+      "Podkreślenie",
+      "Osłabienie"
+    ],
+    "autoTrans": "Automatyczne tłumaczenie",
+    "autoTransEng": "Automatyczne tłumaczenie z języka angielskiego",
+    "autoTransSite": "Automatyczne tłumaczenie bieżącej witryny",
+    "neverTransSite": "Nigdy nie tłumacz bieżącej witryny",
+    "transAgain": "Przetłumacz ponownie"
+  },
+  "tools": {
+    "search": {
+      "name": "Dostęp do sieci",
+      "desc": "Pobieraj informacje z sieci w czasie rzeczywistym, gdy jest to potrzebne"
+    },
+    "text_to_image": {
+      "name": "Malarz",
+      "desc": "Generuj obrazy na podstawie twojego opisu"
+    },
+    "data_analysis": {
+      "name": "Zaawansowana analiza danych",
+      "desc": "Rozwiązuj problemy matematyczne, analizuj i wizualizuj dane, twórz i interpretuj kod, itp"
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Spodobało Ci się nasze rozszerzenie?</b> Oceń nas w sklepie internetowym na pięć gwiazdek, aby pomóc nam się rozwijać",
+    "newInVersion": "Co nowego w wersji {{versionId}}",
+    "learnToUse": "Naucz się używać",
+    "logTitles": {
+      "4_10_0": "GPT-4o od OpenAI jest już tutaj!",
+      "4_9_0": "Llama 3 już teraz! Następna generacja zaawansowanego otwartoźródłowego LLM od Meta.",
+      "4_8_0": "Gemini 1.5 Pro - Już dostępne!",
+      "4_7_0": "Podsumowanie wideo w czacie, wyodrębnianie napisów, Claude 3 Haiku! 🚀",
+      "4_6_0": "Wsparcie dla rodziny Claude 3 już teraz!",
+      "4_5_0": "",
+      "4_4_0": "Wszystkie narzędzia w czacie i menu kontekstowym GPT-4",
+      "4_3_0": "Maksymalizuj swoje doświadczenie dzięki trybowi pełnoekranowemu!",
+      "4_2_0": "Bardziej wydajny interfejs użytkownika i dostęp do GPT na pasku bocznym",
+      "4_1_0": ""
+    },
+    "logs": {
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Zwiększona prędkość:</b> Otrzymuj odpowiedzi 2x szybciej niż GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ulepszona wizja:</b> Znacznie lepsze rozumienie obrazów"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rozszerzone języki:</b> Więcej języków, lepsza jakość i szybsza wydajność"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Nowy model:</b> Wsparcie dla Llama 3 już dostępne"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Nowy Model:</b> Wsparcie dla Gemini 1.5 Pro dostępne teraz"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nowe narzędzia AI do obrazów:</b> Dostęp do funkcji AI przez najechanie na dowolny obraz"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "Podsumowanie w czacie: Otrzymuj kluczowe punkty filmów na YouTube za pomocą opcji „Przeczytaj tę stronę” w oknie czatu."
+          ]
+        },
+        {
+          "features": [
+            "Wygodne wyodrębnianie napisów: Otrzymuj napisy jednym kliknięciem na YouTube dla głębszych wglądów."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Teraz dostępne, aby wzbogacić Twoje doświadczenie czatowe."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Twierdzi, że ma „niemal ludzkie” zdolności i może pokonać GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Zrównoważona inteligencja i szybkość, idealna do wyszukiwania informacji lub automatyzacji sprzedaży."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Widget Agenta wyszukiwania:</b> Doświadcz przyszłości wyszukiwania dzięki automatyzacji AI"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tłumaczenie strony internetowej:</b> Więcej czytelnych stylów wyświetlania tłumaczenia"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nowe ustawienie:</b> Automatyczne wznowienie ostatniego czatu przy otwieraniu Paska bocznego"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Nowe zaawansowane narzędzie do analizy danych:</b> Interpreter kodu do efektywnego przetwarzania danych i złożonych obliczeń"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nowe narzędzie do malowania:</b> Twórz obrazy natychmiastowo w czacie"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ulepszone menu kontekstowe:</b> Używaj GPT-4 w menu kontekstowym."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Zanurz się w pełnym ekranie i ciesz się wciągającym widokiem"
+          ]
+        },
+        {
+          "features": [
+            "Korzystaj z wszystkich funkcji bocznego panelu, teraz w trybie pełnoekranowym"
+          ]
+        },
+        {
+          "features": [
+            "Bezproblemowo przełączaj się między trybami, aby cieszyć się najlepszym z obu światów"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Odświeżony interfejs:</b> Czystszy i łatwiejszy w nawigacji"
+          ]
+        },
+        {
+          "features": [
+            "<b>Zwijany pasek nawigacyjny:</b> Zapewnia skoncentrowaną rozmowę, zachowując jednocześnie dostęp do najważniejszych funkcji"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dostęp do GPT na pasku bocznym:</b> Dla użytkowników ChatGPT Plus bezpośredni dostęp do GPT jest teraz dostępny na pasku bocznym w trybie aplikacji internetowej"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "Podgląd GPT-4V(ision)! & Odpowiedź AI dla Gmaila",
+          "features": [
+            "{{SIDERVISION}} jest zasilany przez GPT-4V",
+            "Lepsze zrozumienie obrazów",
+            "Szybko odczytaj intencje e-mailowe",
+            "Wybieraj spośród różnorodnych tonów i osobowości",
+            "Bez wysiłku wybieraj sugestie odpowiedzi"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "Strona internetowa GPT-4 Turbo i czat!",
+          "features": [
+            "Obsługa GPT-4 Turbo i GPT-3.5 Turbo",
+            "Przetłumacz całą stronę internetową",
+            "Strona internetowa czatu na pasku bocznym",
+            "Czat PDF na pasku bocznym"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Widżet tłumaczeniowy",
+          "features": [
+            "Dostosuj swoje tłumaczenie w dedykowanym widżecie Tłumaczenia",
+            "Popraw odpowiedzi ChatGPT w Google, Bing, Baidu itp"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} stał się mądrzejszy",
+          "features": [
+            "{{4+VISION}}",
+            "1 kliknięcie, aby odpowiedzieć na to samo pytanie za pomocą różnych botów"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Widżet gramatyczny Sidera",
+          "features": [
+            "Sprawdź błędy gramatyczne",
+            "Napraw błędy gramatyczne",
+            "Popraw pisanie poza gramatyką"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Pasek boczny ChatGPT z Vision",
+          "features": [
+            "Wyodrębnij tekst z obrazu",
+            "Zadaj dowolne pytanie dotyczące obrazu",
+            "3 sposoby wysłania obrazu do {{SIDERVISION}} <div><ol><li>Zrób zrzut ekranu</li><li>Przeciągnij i upuść obraz do okna czatu</li><li>Prześlij obraz </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Wyodrębnij tekst z obrazu"
+          ]
+        },
+        {
+          "features": [
+            "Wyodrębnij tekst z obrazu"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Nowy plan cenowy z 5 razy większą liczbą zapytań GPT-4",
+          "features": [
+            "Dobre wieści! Nasze zaktualizowane ceny zapewniają teraz jeszcze większy dostęp do zapytań GPT-4 i Claude 2.",
+            "Jeśli jesteś już użytkownikiem premium, aktualizacja nastąpi automatycznie. Dodatkowo mamy nowy plan „Unlimited” dla wszystkich zaawansowanych użytkowników!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Więcej bota!",
+          "features": [
+            "Oprócz ChatGPT i Claude, Sider obsługuje teraz Barda!"
+          ]
+        },
+        {
+          "title": "OCR: Wyodrębnij tekst z dowolnego obrazu i wyślij go do ChatGPT",
+          "features": [
+            "Rozpoznaj ponad 10 głównych języków",
+            "Rozpoznaj pismo odręczne w języku angielskim",
+            "Rozpoznaj <b>równania matematyczne</b> w tekście"
+          ]
+        },
+        {
+          "title": "Ulepsz malarza",
+          "features": [
+            "Wymień całe tło",
+            "Usuń wybrany obszar"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Więcej chatbotów</b>: teraz obsługuje Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Czat grupowy</b>: porównaj odpowiedzi w chatbotach!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Wzmianka</b>: użyj znaku „@”, aby bez wysiłku wspomnieć o dowolnym chatbocie w rozmowie i nawiązać z nim interakcję!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Szybki monit</b>: po prostu wpisz „/” i gotowe!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Prosty projekt</b>: spraw, aby projekt był prosty i łatwy w obsłudze"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Ulepszony menedżer podpowiedzi dla",
+          "features": [
+            "Czytanie menu kontekstowego",
+            "Pisanie menu kontekstowego"
+          ]
+        },
+        {
+          "title": "Edytor obrazów AI",
+          "features": [
+            "Usuń tło ze wszystkich obrazów",
+            "Usuń tekst ze wszystkich obrazów"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Asystent czytania: używaj sztucznej inteligencji do szybkiego zrozumienia podczas czytania stron internetowych",
+        "Asystent pisania: szybko generuj treści za pomocą sztucznej inteligencji w internetowym polu wprowadzania"
+      ],
+      "2_7_0": [
+        "Narysuj obrazek z tekstu",
+        "Narysuj obrazek ze zdjęcia referencyjnego"
+      ],
+      "2_6_0": [
+        "Sider obsługuje stały pasek boczny — możesz rozmawiać między wszystkimi kartami bez nakładania się treści <br /> (dostępne w przeglądarce Chrome 114 lub nowszej)"
+      ],
+      "2_5_0": [
+        "Podsumowanie YouTube'a! Obejrzyj 1 godzinę filmu na YouTube w 1 minutę",
+        "Porównaj odpowiedzi udzielone przez ludzi i sztuczną inteligencję w witrynach pytań i odpowiedzi, takich jak Quora, StackOverflow i Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Inteligentny dostęp do sieci</b>: na podstawie Twojego zapytania Al zdecyduje, czy potrzebuje dostępu do sieci.",
+        "Poprawa stabilności"
+      ],
+      "2_3_0": [
+        "Wspieraj przeglądanie i wtyczki dla użytkowników Plusa!",
+        "ChatGPT z dostępem do internetu dla każdego!"
+      ],
+      "2_2_0": [
+        "Skomponuj dowolną wiadomość",
+        "Odpowiedz na e-mail, tweet, komentarz itp"
+      ],
+      "2_1_0": [
+        "Skrót do szybkiego wyszukiwania",
+        "Zmień rozmiar okna szybkiego wyszukiwania",
+        "Poprawki błędów i inne ulepszenia UX"
+      ],
+      "2_0_0": [
+        "Obsługa <b>GPT-4 </b> dla wszystkich użytkowników!",
+        "Zaproś znajomych i uzyskaj zapytania <b>GPT-4</b> dla was obojga!",
+        "Poprawki błędów i inne ulepszenia UX"
+      ],
+      "1_1_0": [
+        "Pełny czat w <b>nowej karcie</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> razem!",
+        "Poprawki błędów"
+      ],
+      "1_0_13": [
+        "Kontynuuj czat po zadaniu pytań",
+        "Przełącz między GPT-4 i GPT-3.5 dla użytkowników Plus",
+        "Łatwy dostęp i wyszukiwanie historii czatów"
+      ],
+      "1_0_12": [
+        "Synchronizuj ustawienia rozszerzeń między komputerami",
+        "Uzyskaj dostęp do monitów z różnych laptopów",
+        "Zapisz czaty do wykorzystania w przyszłości",
+        "Udostępniaj czaty za pomocą linku"
+      ],
+      "1_0_11": [
+        "Szybki dostęp do działań za pomocą wyskakującego okienka bez otwierania paska bocznego.",
+        "Dodaj obsługę dodatkowych języków.",
+        "Zachowaj preferencje językowe użytkownika podczas korzystania z funkcji tłumaczenia.",
+        "Rozwiązuj konflikty skrótów na platformach takich jak GitHub i inne."
+      ],
+      "1_0_10": [
+        "Obsługuj teraz ponad 50 języków!"
+      ],
+      "1_0_8": [
+        "Wspieraj GPT-4 dla użytkowników Plusa! Sprawdź stronę ustawień!"
+      ],
+      "1_0_7": [
+        "Zapamiętaj monit użyty ostatnio",
+        "Zoptymalizuj pozycję panelu chatGPT na stronach wyszukiwania",
+        "Dodaj opcję umieszczenia ikony paska bocznego na stronie po lewej stronie",
+        "Zoptymalizuj rozmiar pakietu",
+        "Dodaj tryb ciemny",
+        "Obsługuj serwer proxy adresu URL interfejsu API"
+      ],
+      "1_0_6": [
+        "Popraw funkcję podsumowania na stronie Youtube"
+      ],
+      "1_0_5": [
+        "Zapamiętaj lokalizację ikony paska bocznego",
+        "Popraw klawisze skrótów",
+        "Zapisz szablony monitów bezpośrednio z paska bocznego"
+      ],
+      "1_0_4": [
+        "Zmień kolejność pozycji monitu na liście rozwijanej",
+        "Zarchiwizuj elementy zachęty, których nie będziesz używać",
+        "Odpowiedź wsparcia w ponad 50 językach"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter, aby wykonać szybkie „Prześlij”",
+        "Możliwość ukrycia panelu na stronie wyników wyszukiwania",
+        "Wsparcie ESC, aby ukryć pasek boczny",
+        "Wsparcie podsumowuje długi artykuł"
+      ],
+      "1_0_2": [
+        "Dodaj przycisk zatrzymania, aby zatrzymać generowanie odpowiedzi",
+        "Zmień miejsce zwinięcia przycisku"
+      ],
+      "1_0_1": [
+        "Popraw funkcję podsumowania na stronie Youtube",
+        "Napraw niektóre błędy związane z kopiowaniem/wklejaniem i drukowaniem"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktywuj narzędzia czatu, aby odblokować potężne możliwości.",
+    "content2": [
+      "Eksploruj światową sieć bez przeszkód.",
+      "Przekształć swoje pomysły w oszałamiające wizualizacje.",
+      "Zanurz się głęboko w danych dzięki ekspertom analizy."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Głosuj na polowanie na produkty",
+    "sidebar2Banner1": "Głosuj na nas w <b>Product Hunt</b> TERAZ, aby rozpowszechniać informacje.",
+    "sidebar2ModalTitle": "✨ Podsumowanie paska bocznego 2.0",
+    "sidebar2ModalDesc": "• Zakładka Czat\n  • Szybkie wyszukiwanie szybkich zapytań\n  • Konto do synchronizacji podpowiedzi\n  • Zapisz i udostępniaj czaty\n  • Obsługa większej liczby języków\n  • Obsługa GPT-4",
+    "ios1Banner1": "Zagłosuj na ChitChat – aplikację ChatGPT na iOS 🎉",
+    "ios1Banner2": "Rozpocznijmy z hukiem! 😄",
+    "ios1ModalTitle": "✨ Nowość w aplikacji ChitChat na iOS",
+    "ios1ModalDesc": "• Uzyskaj odpowiedzi z ChatGPT 3.5 i 4\n• Zespół wsparcia botów pomaga Ci w jednym miejscu\n  • Zmień swój plik PDF w chatbota"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} na Maca",
+    "macContent": "Z radością ogłaszamy, że Sider jest teraz dostępny dla użytkowników komputerów Mac! Ciesz się płynną i wydajną obsługą dostosowaną specjalnie dla komputerów Mac, wraz ze wszystkimi zaawansowanymi funkcjami, które lubisz w naszej wersji internetowej.",
+    "macContent2": "Aplikacja {{APP_NAME}} jest teraz dostępna na komputery Mac!",
+    "macDownload": "Pobierz teraz!",
+    "phTitle": "Lubisz korzystać z naszego rozszerzenia?",
+    "phContent": "Poświęć chwilę, aby wesprzeć nas i oddać głos w <i>Polowaniu na produkty</i> — jest to szybkie, łatwe i bardzo nam pomaga!",
+    "phContent2": "Zagłosuj na nas w <b>Polowaniu na produkty</b>",
+    "phVote": "Głosuj teraz!",
+    "phTitle2": "W ramach <i>Product Hunt</i> uruchomiliśmy wersje Sidera 3.X.",
+    "phFeatures1": "<b>Widżety ChatGPT</b>: pisz, wyodrębniaj tekst z obrazów, sprawdzaj gramatykę i tłumacz – wszystko w jednym miejscu.",
+    "phFeatures2": "<b>Sider Vision</b>: rozmawiaj o obrazach za pomocą GPT-4 Vision, przenosząc rozmowę AI na wyższy poziom.",
+    "phFeatures3": "<b>Czat grupowy AI</b>: współpracuj z ChatGPT, GPT-4, Claude i Bard w jednym przełomowym czacie grupowym.",
+    "phFeatures4": "<b>Wszyscy jesteśmy uszami</b>: Twoja opinia kształtuje Sider — podziel się swoimi przemyśleniami, słuchamy!",
+    "phVote2": "Zagłosuj na <i>Polowanie na produkt</i>",
+    "phVoteTips": "<b>Dzisiejsze głosowanie jest kluczowe</b> — wesprzyj nas teraz!"
+  },
+  "searchTool": {
+    "questionMark": "Uruchom ChatGPT, dodając znak zapytania po zapytaniu",
+    "askForQuery": "Zapytaj ChatGPT o to zapytanie",
+    "fiveStart": "Podoba Ci się to rozszerzenie? Daj nam ocenę 5 gwiazdek w {{store}}",
+    "loginAndCloudflareCheck": "Zaloguj się i przekaż test Cloudflare na {{web}}",
+    "braveTrouble": "Wciąż nie działa? Obserwuj {{url}}",
+    "cloudflareCheck": "OpenAI wymaga od czasu do czasu przejścia kontroli bezpieczeństwa. Jeśli to się powtarza, zmień dostawcę AI na OpenAI API w <i>opcjach rozszerzeń</i>.",
+    "failedResponse": "Nie udało się załadować odpowiedzi z ChatGPT:",
+    "whenToAskTips": "Każde wyszukiwanie zużywa jedno szybkie zapytanie tekstowe. Kliknij tutaj, aby ustawić, kiedy zapytać ChatGPT.",
+    "waitResponse": "Oczekiwanie na odpowiedź ChatGPT..."
+  },
+  "sidepanel": {
+    "title": "Sider obsługuje stały pasek boczny",
+    "tip": "Wskazówka: odpowiednio dostosuj szerokość panelu bocznego, aby uzyskać lepsze wrażenia.",
+    "benefit1": "Twój pasek boczny Sider <b>nigdy nie zniknie</b>, jeśli przejdziesz do nowej strony.",
+    "benefit2": "Możesz rozmawiać między wszystkimi kartami bez <b>nakładania się treści</b>.",
+    "benefit3": "Dostępne tylko w <b>Google Chrome 114 lub nowszym</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Koszt 1 szybkiego zapytania tekstowego i 1 zapytania odczytu",
+    "videoSummaryCostLogin": "Bezpłatny okres próbny {{times}} razy, za każdym razem wykorzystując {{num}} szybkich zapytań tekstowych",
+    "videoSummaryBtn": "Podsumuj wideo",
+    "videoSummaryMakeFullBtn": "Wygeneruj pełne podsumowanie",
+    "keyMomentsCollapse": "Zwiń",
+    "keyMomentsClickExpand": "Kliknij, aby rozwinąć",
+    "originalSubtitles": "Oryginalne napisy",
+    "expandAll": "Rozwiń wszystko",
+    "loginToSummary": "Zaloguj się, aby podsumować",
+    "loginToAsk": "Zaloguj się, aby zapytać",
+    "noTranscriptTip": "{{APP_NAME}} nie może podsumować filmów bez napisów.",
+    "videoSummaryText": "Podsumowanie wideo",
+    "summary": "Podsumuj",
+    "subtitle": "Napisy",
+    "subtitles": "Napisy",
+    "responseLanguage": "Język odpowiedzi",
+    "bilingual": "Bilingwalny",
+    "subtitleFailed": "Nie udało się załadować napisów",
+    "videoTooLang": "Dla podsumowania filmy muszą być krótsze niż 10 godzin.",
+    "displayTranslation": "Wyświetl tłumaczenie",
+    "noSubtitleTips": "Podsumowanie jest dostępne tylko dla filmów z napisami w tym momencie.",
+    "insertToComment": "Wstaw do komentarza",
+    "generatedBy": "Wygenerowane przez {{name}}",
+    "shownotes": "Kluczowe momenty",
+    "freeLimitTips": "Twoja bezpłatna wersja próbna została wykorzystana, uaktualnij teraz, aby nadal korzystać z funkcji podsumowania wideo.",
+    "askQuestionBtn": "Zadaj pytanie",
+    "noQuestionTip": "{{APP_NAME}} nie może wyświetlić problemu na stronie."
+  },
+  "quickActions": {
+    "requireSignin": "Logowanie wymagane",
+    "siginHint": "Aby uzyskać dostęp do tej funkcji, zaloguj się.",
+    "askAI": "Zapytaj {{name}}",
+    "defaultPlaceholder": "Zapytaj aplikację {{APP_NAME}} o wszystko",
+    "defaultPlaceholder2": "Zapytaj aplikację {{APP_NAME}} o powyższą treść",
+    "managePrompts": "Zarządzaj poleceniami",
+    "editSelectionGroup": "Edytuj lub przejrzyj wybór",
+    "selectionGroup": "Generuj z zaznaczenia",
+    "draftGroup": "Szkic z {{name}}",
+    "AIGenerating": "{{name}} generuje...",
+    "pressToStop": "Naciśnij {{name}}, aby zatrzymać",
+    "pressToClose": "Naciśnij {{name}}, aby zamknąć",
+    "disableOnce": "Ukryj do następnej wizyty",
+    "disableSite": "Wyłącz dla tej witryny",
+    "disableGlobal": "Wyłącz globalnie",
+    "continueImproving": "Kontynuuj doskonalenie"
+  },
+  "msg": {
+    "supportedFileFormat": "Obsługiwane formaty plików to {{formats}}",
+    "maxFileSize": "Maksymalny rozmiar pliku to {{size}}",
+    "maxSize": "Maksymalny rozmiar: {{num}}",
+    "fetchFailed": "Nie można pobrać obrazu. Możesz go pobrać i przesłać ręcznie.",
+    "enterAPIKey": "Wprowadź klucz API OpenAI",
+    "selectModel": "Wybierz prawidłowy model",
+    "changeSaved": "Zmiany zapisane",
+    "fiveStart": "Daj nam 5 gwiazdek",
+    "pleaseContactUs": "Prosimy <a>skontaktuj się z nami</a>.",
+    "inviteTitle": "Zaproszenie i nagrody",
+    "inviteEarn": "Zarabiaj <mx>{{num}} zapytań</mx> dla siebie i swoich znajomych. <b>Im więcej polecasz, tym więcej zarabiasz</b>.",
+    "inviteStep1": "Polecaj znajomym link z zaproszeniem",
+    "inviteStep2": "Twoi znajomi się rejestrują",
+    "inviteStep3": "Instalują rozszerzenie i logowanie. Zdobyte nagrody!",
+    "checkInvitation": "Sprawdź rekordy zaproszeń",
+    "inviteFriendsEarn": "Zapraszaj znajomych i zdobywaj zapytania GPT-4",
+    "inviteFriends": "Zaprosić przyjaciół",
+    "inviteRewardsRecord": "Rekordy nagród:",
+    "invitedRewardObtained": "Nagrody zdobyte!",
+    "invitedWelcome": "Powitanie! Zapytania GPT zostały dodane do Twojego konta!",
+    "invitedRewardTips": "Twój znajomy zaprasza Cię i każdy z Was ma <mx>{{num}} zapytań</mx> do wykorzystania",
+    "inviteFriendJoin_one": "{{count}} przyjaciel dołączył",
+    "inviteFriendJoin_other": "{{count}} przyjaciół dołączyło",
+    "getMoreGPT4": "Uzyskaj więcej limitu GPT-4",
+    "errSiderApiLimitDevice": "Aby skorzystać, zaloguj się.",
+    "errSiderApiLimitLogin": "Wykorzystałeś już wszystkie darmowe zapytania na dziś. Ulepsz konto lub zaproś przyjaciół, aby uzyskać więcej, lub poczekaj do jutrzejszego resetu zapytań.",
+    "errSiderApiLimitPremium": "Twoje szybkie zapytania tekstowe na ten miesiąc zostały wyczerpane. Przejdź na zaawansowane zapytania tekstowe, poczekaj na reset w przyszłym miesiącu (data subskrypcji) lub uaktualnij, aby uzyskać więcej.",
+    "errSiderApiImageLimit": "Wykorzystałeś wszystkie zapytania graficzne i uaktualnij, aby nadal korzystać z tej funkcji.",
+    "errSiderApiSummaryVideoLimit": "Wykorzystałeś wszystkie zapytania. Uaktualnij lub zaproś znajomych, aby uzyskać więcej.",
+    "errSiderApiOcrLimit": "Wykorzystałeś wszystkie zapytania dotyczące obrazów. Zaktualizuj, aby nadal mieć dostęp do tej funkcji.",
+    "errSiderApiImgLimitPremiumUltra": "Osiągnąłeś maksymalną liczbę zapytań o obrazy. Aby kontynuować korzystanie, poczekaj na następny reset.",
+    "errSiderPremiumRequired": "Ta funkcja jest dostępna wyłącznie dla użytkowników premium. Uaktualnij teraz, aby odblokować tę funkcję.",
+    "errSiderHighTrafficError": "Ze względu na duży ruch, spróbuj ponownie później lub przejdź na konto premium, aby uzyskać szybszy dostęp.",
+    "errSiderHighTrafficTip": "Rozważ <a>przejście na konto premium</a>, aby uzyskać stabilny dostęp i wesprzeć nasz rozwój.",
+    "errSiderDeviceBinded": "Aby skorzystać, zaloguj się.",
+    "errSiderApiHighLoad": "Serwer OpenAI jest obecnie zajęty. Spróbuj ponownie później.",
+    "errSiderGPT4HighLoad": "Serwer OpenAI jest obecnie zajęty. Spróbuj ponownie później.",
+    "errSiderOpenaiFault": "Serwer Openai jest zajęty. Proszę przejść na {{model}} podczas awarii OpenAI.",
+    "errServiceUnavailable": "Serwer Openai jest zajęty, spróbuj ponownie później lub przełącz się na Sider API i użyj {{model}} podczas awarii OpenAI.",
+    "errSiderGPT4LimitDevice": "Najpierw <b>zaloguj się</b> i <amb>zaproś znajomych</amb> lub <ta>przejdź na wersję premium</ta>, aby uzyskać bardziej zaawansowany limit SMS-ów.",
+    "errSiderGPT4LimitLogin": "Uaktualnij lub zaproś znajomych, aby odblokować więcej zaawansowanych zapytań tekstowych i uzyskać bardziej wnikliwe odpowiedzi.",
+    "errSiderGPT4LimitPremium": "Twoje zaawansowane zapytania tekstowe na ten miesiąc zostały wyczerpane. Przejdź na szybkie zapytania tekstowe, poczekaj na reset w przyszłym miesiącu (data subskrypcji) lub uaktualnij, aby uzyskać więcej.",
+    "errSiderNeedLogin": "Aby skorzystać, zaloguj się.",
+    "errGeminiPro": "Błąd {{GEMINI}}, spróbuj ponownie później.",
+    "goToSignIn": "Przejdź do logowania",
+    "errSiderTimeout": "Upłynął limit czasu żądania. Proszę spróbuj ponownie.",
+    "errSiderProcessing": "Tylko jedna wiadomość na raz. Zanim wyślesz kolejną wiadomość, poczekaj na zakończenie dowolnej innej odpowiedzi lub poczekaj chwilę.",
+    "errTrySiderAPI": "Przełącz się na <i>ChatGPT Sidebar API</i>, aby uzyskać stabilny dostęp (dla wszystkich)",
+    "errTrySiderAPI2": "LUB użyj własnego klucza API na <a>stronie ustawień</a> (dla programistów)",
+    "errChatGPTAuth": "<m>Kliknij link, aby zalogować się </m> na swoją stronę ChatGPT, a my pomożemy Ci ją przypiąć. Następnie możesz go użyć na pasku bocznym.",
+    "errChatGPTAuthTipTitle": "Jeśli to nie działa:",
+    "errChatGPTFailToFetch": "Nie udało się uzyskać odpowiedzi od ChatGPT.",
+    "errOpenaiFailToFetch": "Nie udało się uzyskać odpowiedzi od OpenAI za pośrednictwem klucza API.",
+    "errSiderBasicTextLimit": "Osiągnąłeś nasz podstawowy limit zapytań dotyczących szybkości przesyłania tekstu. Obecnie obowiązuje ograniczenie wysyłania {{N1}} wiadomości co {{NUM2}} minut. Alternatywnie możesz użyć zaawansowanego zapytania tekstowego i wrócić później.",
+    "errSiderAdvancedTextLimit": "Osiągnąłeś nasz limit zapytań dotyczących zaawansowanej szybkości przesyłania tekstu. Obecnie obowiązuje ograniczenie wysyłania {{N1}} wiadomości co {{NUM2}} minut. Alternatywnie możesz użyć podstawowego zapytania tekstowego i wrócić później.",
+    "loginAndCloudflareCheck": "Przejdź do <a>API paska bocznego</a>, aby uzyskać stabilny dostęp LUB zaloguj się i przejdź kontrolę Cloudflare na <i>chat.openai.com</i>",
+    "invalidApiKey": "Klucz API jest nieprawidłowy, poproś o inny.",
+    "getApiKeyGuide": "Aby to działało, potrzebujesz klucza OpenAI API. Postępuj zgodnie z naszym przewodnikiem, aby uzyskać klucz API.",
+    "thankForFeedback": "Dziękuję. Formularz został przesłany pomyślnie. Skontaktujemy się z Tobą wkrótce.",
+    "writeSomething": "Proszę coś napisać.",
+    "enterEmail": "Wprowadź adres e-mail, aby otrzymywać aktualizacje dotyczące problemu.",
+    "emailRequired": "Email jest wymagany.",
+    "promptNameRequired": "Nazwa zachęty jest wymagana.",
+    "titleRequired": "Tytuł jest wymagany.",
+    "nameYourPrompt": "Nazwij swój monit",
+    "nameYourTitle": "Nazwij swoją rozmowę",
+    "promptTplRequired": "Wymagana jest szybka treść.",
+    "deletePromptWarn": "Czy chcesz usunąć ten monit?",
+    "restorePromptWarn": "Czy chcesz przywrócić ten szablon monitu?",
+    "notValidEmail": "nie prawidłowy adres e-mail",
+    "pleaseSignin": "Proszę się zalogować.",
+    "signinTips": "Zaloguj się, aby zsynchronizować monity i ustawienia",
+    "signinAward": "Zaloguj się, aby otrzymać {{num}} <span>darmowych</span> zapytań dziennie",
+    "signinAward2": "Zapytania zostały wykorzystane dla niezalogowanego użytkownika. Możesz się zalogować, aby otrzymywać <b>{{num}} bezpłatnych zapytań dziennie</b>.",
+    "signinAward3": "Zaloguj się, aby uzyskać więcej zapytań dziennie",
+    "signinAward4": "Wyrusz w magiczną podróż z przeglądarką Al i otrzymaj {{num}} <span>DARMOWE</span> zapytania codziennie",
+    "chatgptTabGuardTips": "Nie zamykaj tej karty, teraz możesz wrócić do {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Coś poszło nie tak z ChatGPT. Ponowne łączenie, proszę czekać...",
+    "chatgptTabGuardRefreshingTips1": "Coś poszło nie tak z ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Ponowne łączenie, proszę czekać...",
+    "chatgptTabGuardSetupSuccessTips": "Naprawiono, spróbuj ponownie",
+    "switchToSiderApiToContinue": "Ta funkcja obsługuje obecnie tylko tryb API aplikacji {{APP_NAME}}. Aby kontynuować, <a>przełącz się na interfejs API aplikacji {{APP_NAME}}</a>.",
+    "switchRequired": "Wymagany przełącznik",
+    "signInRequired": "Logowanie wymagane",
+    "useUpUpgrade": "Twój limit został wykorzystany, uaktualnij, aby uzyskać więcej miejsca.",
+    "webSearchSignIn": "Aby skorzystać z tej funkcji, zaloguj się.",
+    "featureLimit": "Limit funkcji",
+    "featureLimitTip": "Zaktualizuj, aby móc korzystać z Claude'a i Barda.",
+    "featureUnavailableOnPage": "Funkcja niedostępna",
+    "featureBrowserLimit": "Ograniczenia przeglądarki uniemożliwiają działanie tej funkcji na tej stronie. Proszę spróbować na innej stronie internetowej.",
+    "quotaModelContent": "Osiągnięto limit zapytań GPT-4/Claude-2. Przejdź na plan Premium, aby uzyskać większy dostęp lub zaproś znajomych, aby uzyskać bezpłatne dodatkowe zapytania.",
+    "signinFeature": "Zaloguj się, aby uzyskać dostęp do tej funkcji",
+    "dragImgTips": "Kliknij, aby przesłać lub upuść obraz tutaj",
+    "reEnableInSettings": "Możesz ponownie włączyć w <a>Ustawieniach</a>",
+    "switchBarTip": "Poszerz panel boczny, aby przypiąć pasek nawigacyjny.",
+    "upgradeSupport": "Przejdź na plan premium, aby nas wspierać",
+    "upgradeSupport2": "Uaktualnij, aby uzyskać więcej funkcji",
+    "imageSizeLimit": "Limit obrazu",
+    "fileSizeLimit": "Plik za duży",
+    "imageSizeLimitTip": "Upewnij się, że obraz jest mniejszy niż 10 MB, a jego szerokość lub wysokość nie przekracza 4096 pikseli, a następnie spróbuj ponownie.",
+    "fileSizeLimitTip": "Plik przekracza limit przesyłania 100MB. Proszę zmniejszyć rozmiar pliku i spróbować ponownie.",
+    "errOpenAIFilter": "Odpowiedź została odfiltrowana ze względu na monit uruchamiający politykę zarządzania treścią OpenAI. Zmodyfikuj monit i spróbuj ponownie.",
+    "unreadableMsg": "Nie mogę znaleźć głównej treści na tej stronie. Spróbuj innej strony.",
+    "unreadableTitle": "Brakuje głównej treści",
+    "noSubtitleMsg": "Film nie posiada napisów i nie może zostać podsumowany.",
+    "noSubtitleTitle": "Wymagane napisy do podsumowania",
+    "fileLimit": "Aby przetworzyć ten plik, proszę włączyć Zaawansowane Narzędzie Analizy Danych. Kosztuje 1 Zaawansowane Zapytanie Tekstowe za użycie. Czy chcesz je włączyć i kontynuować?",
+    "openLastConversationTitle": "Otworzyć ostatnią rozmowę?",
+    "openLastConversationContent": "Teraz możemy ustawić, czy pasek boczny będzie przywracał ostatnią rozmowę za każdym razem, gdy się uruchamia.",
+    "openLastConversationCancel": "Rozumiem",
+    "openLastConversationOk": "Przejdź do Ustawień"
+  },
+  "options": {
+    "shortcut": {
+      "tips": "Wpisz skrót"
+    },
+    "theme": {
+      "auto": "automatyczny",
+      "light": "jasny tryb",
+      "dark": "tryb ciemny"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Zawsze",
+        "desc": "Zapytaj ChatGPT przy każdym wyszukiwaniu"
+      },
+      "questionMark": {
+        "title": "Znak zapytania",
+        "desc": "Zapytaj ChatGPT, czy słowa kluczowe kończą się znakiem zapytania (?)"
+      },
+      "manually": {
+        "title": "Ręcznie",
+        "desc": "Zapytaj ChatGPT tylko po kliknięciu przycisku"
+      }
+    },
+    "sidebarLocation": {
+      "left": "lewa strona",
+      "right": "prawa strona"
+    },
+    "sidebarMode": {
+      "sidepanel": "Naprawiono pasek boczny",
+      "inpage": "Pasek boczny na stronie"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Podczas przełączania kart Sider zawsze pozostanie zamocowany po prawej stronie przeglądarki.",
+      "inpage": "Podczas przełączania kart Sider nie pozostanie na wyświetlaczu; musisz ponownie otworzyć pasek boczny na nowej stronie."
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Zapytaj ChatGPT",
+        "template": "Czy możesz mi powiedzieć coś o {{keywords}}? Jeśli to możliwe, możesz podać mi kilka linków na ten temat? Jeśli {{keywords}} jest pytaniem związanym z kodem, po prostu wpisz kod"
+      },
+      "list": {
+        "title": "Słowa kluczowe do pytań",
+        "template": "Wymień 1 najpopularniejsze pytanie dotyczące „{{keywords}}”. Następnie odpowiedz na to pytanie. Na koniec wypisz kolejne 4 pytania."
+      },
+      "suggest": {
+        "title": "Uzyskaj powiązane słowa kluczowe",
+        "template": "{{keywords}} to moje słowa kluczowe wyszukiwania w Google. Podaj mi 5 zestawów powiązanych słów kluczowych."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Podsumować",
+        "template": "Podsumuj to dla ucznia drugiej klasy:"
+      },
+      "similar-pages": {
+        "title": "Podobne strony",
+        "template": "Znajdź 10 podobnych stron do następującej treści z linkiem:"
+      },
+      "grammar": {
+        "title": "Gramatyka",
+        "template": "Popraw to na standardowy angielski:"
+      },
+      "explain": {
+        "title": "Wyjaśnić",
+        "template": "Wyjaśnij następującą treść:"
+      },
+      "explain-codes": {
+        "title": "Wyjaśnij kody",
+        "template": "Wyjaśnij następujące kody:"
+      },
+      "rewrite": {
+        "title": "Przepisać",
+        "template": "Przepisz następującą treść:"
+      },
+      "translate": {
+        "title": "Tłumaczyć",
+        "template": "Przetłumacz następującą treść na język {{lang}}:"
+      },
+      "qa": {
+        "title": "Pytania i odpowiedzi",
+        "template": "Odpowiedz na to pytanie:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Darmowy plan",
+    "basic": "Plan podstawowy",
+    "pro": "Plan profesjonalny",
+    "ultra": "Nielimitowany plan",
+    "starter": "Plan Startowy"
+  },
+  "shortPlanNames": {
+    "free": "Darmowy",
+    "basic": "Podstawowy",
+    "pro": "Pro",
+    "ultra": "Bez limitu",
+    "starter": "Startowy"
+  },
+  "queryNames": {
+    "fast": "Szybki tekst",
+    "advanced": "Zaawansowany tekst",
+    "image": "Obraz",
+    "reader": "Czytelnik"
+  },
+  "upgradeModal": {
+    "off": "Rabat!",
+    "desc": "Więcej zapytań i więcej funkcji",
+    "upgradeToUseXXX": "Uaktualnij, aby używać <b>bota</b>",
+    "getWebAccess": "Uaktualnij, aby uzyskać odpowiedź internetową",
+    "videoSummay": "Uaktualnij, aby korzystać z podsumowania wideo",
+    "gpt4Desc": "GPT-4 jest znacznie mądrzejszy i może pomóc w uzyskaniu bardziej logicznych i dokładnych odpowiedzi.",
+    "claude2Desc": "Claude-2 jest znacznie mądrzejszy i może pomóc w uzyskaniu bardziej logicznych i dokładnych odpowiedzi.",
+    "claude3SonnetDesc": "Claude 3 Sonnet to zaawansowany model językowy do precyzyjnej, subtelnej komunikacji.",
+    "claude3OpusDesc": "Claude 3 Opus to zaawansowana sztuczna inteligencja do radzenia sobie z złożonymi zadaniami z niezwykłą efektywnością.",
+    "webAccessDesc": "Sider pobiera odpowiedzi na Twoje pytania od Google i wykorzystuje sztuczną inteligencję do zwięzłej organizacji i podsumowań.",
+    "videoSummaryDesc": "Osiągnąłeś limit bezpłatnego użytkowania. Aby nadal mieć dostęp do tej funkcji, rozważ przejście na członkostwo premium.",
+    "features": {
+      "_0": "<b>Nieograniczone</b> szybkie zapytania tekstowe",
+      "0_desc": "Dla GPT-3.5 Turbo, Gemini 1.0 Pro, Claude 3 Haiku",
+      "_1": "<b>Nieograniczone</b> zaawansowane zapytania tekstowe",
+      "1_desc": "Dla GPT-4o, Claude 3 Sonnet, Claude 3 Opus, Gemini 1.5 Pro",
+      "_2": "<b>1800</b> Zapytań o obrazy/Miesiąc",
+      "2_desc": "Dla malarza, OCR i Vision",
+      "_3": "<b>6000</b> Zapytań czytelnika/Miesiąc</b>",
+      "3_desc": "PDF, artykuł internetowy, film na YouTube..."
+    }
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Odkryj poza granicami!",
+      "pro": "Osiągnięto limit przydziału",
+      "ultra": "Osiągnięto limit przydziału"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Osiągnąłeś limit darmowej kwoty. Przejdź na wyższy limit i odblokuj zaawansowane funkcje.",
+      "pro": "Osiągnąłeś limit przydziału na ten miesiąc. Uaktualnij, aby uzyskać dodatkowy limit.",
+      "ultra": "Osiągnąłeś limit przydziału na ten miesiąc. Skontaktuj się z nami pod adresem <a>care@sider.ai</a>, aby przekazać swoje sugestie."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Oceń nas na pięć gwiazdek",
+    "enjoy": "😘 Czy podoba Ci się to rozszerzenie?",
+    "enjoyNo": "Brak informacji zwrotnej",
+    "enjoyYes": "Tak, pięciogwiazdkowa ocena!",
+    "feedbackTip": "🥹 Podaj nam powód swojego niezadowolenia.",
+    "feedbackThx": "Dziekuję za odpowiedź."
+  },
+  "emailEnhance": {
+    "emailAssistant": "Asystent poczty e-mail",
+    "emailAssistantDesc": "Po włączeniu Sider może pomóc Ci szybko odpowiadać na e-maile.",
+    "inputPlaceholder": "Powiedz Side'owi, jak chcesz odpowiedzieć...",
+    "intent": "Zamiar",
+    "orgLang": "Oryginalny język",
+    "quickAIReply": "Odpowiedź AI",
+    "tryAgain": "Spróbuj ponownie",
+    "voice": {
+      "applicant": "Petent",
+      "casual": "Zwykły",
+      "colleague": "Kolega z pracy",
+      "confident": "pewny siebie",
+      "customer-service-staff": "Pracownicy biura Obsługi klienta",
+      "direct": "bezpośredni",
+      "emailLength": "Długość e-maila",
+      "empathetic": "empatyczny",
+      "enthusiastic": "Namiętny",
+      "formal": "Formalny",
+      "formality": "Formalność",
+      "friendly": "przyjazny",
+      "human-resources": "Zasoby ludzkie",
+      "informational": "informacyjny",
+      "leader": "Lider",
+      "long": "Długi",
+      "medium": "Średni",
+      "neutral": "Neutralny",
+      "personable": "Droga",
+      "project-manager": "Menadżer projektu",
+      "sales-representative": "Przedstawiciel handlowy",
+      "short": "Krótki",
+      "subordinate": "Podrzędny",
+      "tone": "Ton",
+      "witty": "sprytny",
+      "yourRole": "Twoja rola"
+    },
+    "voiceSettings": "Ustawienie tonu",
+    "wayToReply": "Sugestie odpowiedzi"
+  },
+  "searchEnhance": {
+    "getStarted": "Rozpocznij teraz",
+    "adContent": "Czy mądrzejszy niż GPT-4? Oto Claude 3! Zaproszenie znajomych i wypróbuj za darmo!",
+    "noLoginAdContent": "Odblokuj moc AI: Szukaj, Czytaj, Pisz, Tłumacz Szybciej i Sprytniej!",
+    "noLoginBtn": "Dołącz do ponad 4 milionów zadowolonych użytkowników!"
+  },
+  "imageToolbar": {
+    "AITools": "Narzędzia AI",
+    "chatWithImage": "Czat z obrazem",
+    "extractText": "Wyodrębnij tekst",
+    "imageTools": "Narzędzia obrazu",
+    "inpaint": "Zastąp obszar pędzlem",
+    "removeBackground": "Usuń tło",
+    "removeText": "Usuń tekst",
+    "replaceBackground": "Zastąp tło",
+    "upscale": "Powiększ",
+    "variation": "Stwórz wariacje"
+  }
+}
