@@ -1,1 +1,1 @@
-A simple log in page created using HTML and CSS
+A simple log in page I created using HTML and CSS
